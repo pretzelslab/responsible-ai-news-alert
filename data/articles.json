@@ -2,9 +2,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -21,10 +21,29 @@
   {
     "categories": [
       {
+        "confidence": 87,
+        "name": "Data privacy",
+        "reason": "Score 42: privacy, data collection, personal data",
+        "slug": "privacy"
+      }
+    ],
+    "id": "2499d9f84c0003ad",
+    "ingestedAt": "2026-05-08T19:35:49.740Z",
+    "publishedAt": "2026-05-07T15:05:10.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "The Center for Democracy &#38; Technology (CDT) and the Electronic Privacy Information Center (EPIC) submitted comments objecting to the Department of Housing and Urban Development’s (HUD) recent System of Records Notice (SORN) that would collect new categories of personal data and expand the usage of AI within the HUD’s customer relationship management s...",
+    "title": "CDT and EPIC Submit Comments Regarding the Department of Housing and Urban Development’s Attempt to Expand Data Collection and AI Use in Key Departmental System",
+    "url": "https://cdt.org/insights/cdt-and-epic-submit-comments-regarding-the-department-of-housing-and-urban-developments-attempt-to-expand-data-collection-and-ai-use-in-key-departmental-system/"
+  },
+  {
+    "categories": [
+      {
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "845e09fc8cd969fb",
@@ -43,7 +62,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "a19795465bc12eee",
@@ -59,9 +78,28 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: ai act",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "1b0ae98602c920f4",
+    "ingestedAt": "2026-05-08T19:35:49.741Z",
+    "publishedAt": "2026-05-06T15:56:49.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "CDT joined a coalition of organizations in a letter to Rep. Ted Lieu (D-CA) urging him to ensure his bipartisan American Leadership in AI Act is not packaged with or used as cover for broader efforts to preempt state artificial intelligence laws. While the coalition expressed support for Rep. Lieu&#8217;s goal of advancing bipartisan AI [&#8230;] The post...",
+    "title": "CDT Joined a Letter to Representative Ted Lieu Urging Him to Ensure his Recent, Bipartisan American Leadership in AI Act is Not Tied to Broader Attempts to Preempt State AI Laws",
+    "url": "https://cdt.org/insights/cdt-joined-a-letter-to-representative-ted-lieu-urging-him-to-ensure-his-recent-bipartisan-american-leadership-in-ai-act-is-not-tied-to-broader-attempts-to-preempt-state-ai-laws/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -81,7 +119,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "81ae8f3395ba494d",
@@ -100,7 +138,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "197d29e24da90481",
@@ -119,7 +157,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "a67b0def7ecea0ae",
@@ -138,7 +176,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "a7cbb81dc5ec6a26",
@@ -157,13 +195,32 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "99517d5b13eb8335",
+    "ingestedAt": "2026-05-08T19:35:49.741Z",
+    "publishedAt": "2026-05-05T15:40:34.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "This op-ed, authored by CDT’s Geoff Hale, Brennan Center&#8217;s Katie Lurie &#38; Veronica Degraffenreid first appeared in the Brennan Center for Justice on May 5, 2026.&#160;The full text has been pasted below. Voter registration databases are maintained by election officials and determine if a voter is registered, where they are assigned to vote, and o...",
+    "title": "Op-ed: Voter Registration Database Protections Are Resilient",
+    "url": "https://cdt.org/insights/op-ed-voter-registration-database-protections-are-resilient/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Addiction / emotional dependency",
+        "reason": "Score 36: wellbeing, children",
+        "slug": "addiction_dependency"
       }
     ],
     "id": "6f041c90cbc517f1",
     "ingestedAt": "2026-05-08T18:11:10.497Z",
     "publishedAt": "2026-05-05T10:41:15.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "EFF Updates",
     "status": "active",
     "summary": "EFF joins 18 organizations in writing a letter to UK policymakers urging them to address the root causes of online harm—rather than undermining the open web through blunt restrictions. The coalition, which includes Mozilla, Tor Project, and Open Rights Group, warns that proposed measures following the passage of the Children’s Wellbeing and Schools Bill r...",
@@ -173,9 +230,9 @@
   {
     "categories": [
       {
-        "confidence": 75,
+        "confidence": 77,
         "name": "Data privacy",
-        "reason": "Matched: privacy, surveillance",
+        "reason": "Score 32: privacy, surveillance",
         "slug": "privacy"
       }
     ],
@@ -195,7 +252,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "5e76416f90f50085",
@@ -211,16 +268,22 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 59,
         "name": "Algorithmic bias",
-        "reason": "Matched: fairness",
+        "reason": "Score 14: fairness",
         "slug": "bias"
+      },
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: ai act",
+        "slug": "ai_advancement"
       }
     ],
     "id": "895e4e2a16ebd4c7",
     "ingestedAt": "2026-05-08T18:11:10.498Z",
     "publishedAt": "2026-05-04T15:33:51.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "EFF Updates",
     "status": "active",
     "summary": "Digital Fairness in the EU The next few years will be decisive for EU digital policymaking. With major laws like the Digital Services Act, the Digital Markets Act, and the AI Act now in place, the EU is entering an enforcement era that will show whether these rules are rights-respecting or drift toward overreach and corporate control. With the proposed EU...",
@@ -233,7 +296,26 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "165615647e259697",
+    "ingestedAt": "2026-05-08T19:37:14.967Z",
+    "publishedAt": "2026-05-01T16:37:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "active",
+    "summary": "Data Mining & Modeling",
+    "title": "Catalyzing scientific impact through global partnerships and open resources",
+    "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "cebb59168c7efe1e",
@@ -249,9 +331,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -268,16 +350,41 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "cc849960d57ee797",
+    "ingestedAt": "2026-05-08T19:35:49.741Z",
+    "publishedAt": "2026-04-30T17:21:52.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "Also authored by Aditya Vashistha, CDT Non-Resident Fellow &#38; Assistant Professor, Cornell University + Global AI Initiative Lead. The Center for Democracy &#38; Technology (CDT) and Cornell Global AI Initiative submit these joint comments to shape the first session of the Global Dialogue on AI Governance hosted by the UN. These comments expand on spok...",
+    "title": "CDT and Cornell Global AI Initiative Call for Meaningful Advancements and Investment into Linguistic Diversity at the First UN Global Dialogue on AI Governance",
+    "url": "https://cdt.org/insights/cdt-and-cornell-global-ai-initiative-call-for-meaningful-advancements-and-investment-into-linguistic-diversity-at-the-first-un-global-dialogue-on-ai-governance/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Bad actors",
+        "reason": "Score 36: fraud, abuse",
+        "slug": "bad_actors"
+      },
+      {
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: surveillance",
+        "reason": "Score 22: surveillance",
         "slug": "privacy"
       }
     ],
     "id": "cc6650880989e308",
     "ingestedAt": "2026-05-08T18:11:10.498Z",
     "publishedAt": "2026-04-30T16:54:10.000Z",
-    "severity": 2,
+    "severity": 4,
     "source": "EFF Updates",
     "status": "active",
     "summary": "Reporters, community advocates, EFF, and others have used public records laws to reveal and counteract abuse, misuse, and fraudulent narratives around how law enforcement agencies across the country use and share data collected by automated license plate readers (ALPRs). EFF is alarmed by recent laws in several states that have blocked public access to da...",
@@ -290,7 +397,64 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "f63eedff6c70ffae",
+    "ingestedAt": "2026-05-08T19:35:49.742Z",
+    "publishedAt": "2026-04-30T16:35:20.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "The cancellation of RightsCon is a huge loss for everyone who cares about human rights. RightsCon plays an important role in bringing together technologists, human rights advocates, researchers, government officials, and journalists from around the world, especially advocates who represent the communities most often left out of the conversation. Its organ...",
+    "title": "CDT CEO on the Cancellation of RightsCon",
+    "url": "https://cdt.org/insights/cdt-ceo-on-the-cancellation-of-rightscon/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c8009ccebbd741bd",
+    "ingestedAt": "2026-05-08T19:35:49.742Z",
+    "publishedAt": "2026-04-30T14:37:35.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "In 1969, the Museum of Contemporary Art Chicago hosted a curious experiment in expression. Art by Telephone invited artists to call the museum and dictate instructions for their works. Museum staff, acting as interpreters and fabricators, executed those directions in the gallery. Artists’ commands traveled through telephone lines and human intermediaries,...",
+    "title": "Art by Telephone, Art by Algorithm: Expression, AI, and the First Amendment",
+    "url": "https://cdt.org/insights/art-by-telephone-art-by-algorithm-expression-ai-and-the-first-amendment/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "238cb8b01a8f5ccf",
+    "ingestedAt": "2026-05-08T19:35:49.742Z",
+    "publishedAt": "2026-04-30T10:23:43.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "Welcome back to the Centre for Democracy &#38; Technology Europe’s Tech Policy Brief! This edition covers the most pressing technology and internet policy issues under debate in Europe and gives CDT’s perspective on the impact to digital rights. To sign up for CDT Europe’s AI newsletter, please visit our website. Do not hesitate to contact [&#8230;] The p...",
+    "title": "EU Tech Policy Brief: April 2026",
+    "url": "https://cdt.org/insights/eu-tech-policy-brief-april-2026/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "ddb52c4c445d95ed",
@@ -309,7 +473,26 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "927a4a84c6d72173",
+    "ingestedAt": "2026-05-08T19:35:49.743Z",
+    "publishedAt": "2026-04-30T04:01:00.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "In addition to CDT, this report was authored by Emaan Bilal&#160;and Dylan Hadfield-Menell of the Algorithmic Alignment Group at the Massachusetts Institute of Technology (MIT). [ Read full report ] General-purpose AI models are increasingly adapted by downstream developers for specialized uses — from medical transcription to legal contract analysis. This...",
+    "title": "Out of Tune: Fine-Tuning Foundation Models Leads to Unpredictable Safety Drift",
+    "url": "https://cdt.org/insights/out-of-tune-fine-tuning-foundation-models-leads-to-unpredictable-safety-drift/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "bb69d87cc1dbfe96",
@@ -328,7 +511,45 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "d0d886c9dcdc701f",
+    "ingestedAt": "2026-05-08T19:37:14.968Z",
+    "publishedAt": "2026-04-29T21:07:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "active",
+    "summary": "Data Mining & Modeling",
+    "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+    "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "bef80b920cd75e6d",
+    "ingestedAt": "2026-05-08T19:35:49.743Z",
+    "publishedAt": "2026-04-29T20:38:22.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "A bill before the Canadian parliament would compel companies to install “technical capabilities” in their information services that would facilitate law enforcement access to communications content. The “Act respecting lawful access,” dubbed the “C-22 bill” in Canada, is similar to legislation adopted in the UK that officials there attempted to use to com...",
+    "title": "Canadian Government Proposes Legislation To Enable Encryption Backdoors",
+    "url": "https://cdt.org/insights/canadian-government-proposes-legislation-to-enable-encryption-backdoors/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "0e494a6a6a292561",
@@ -344,10 +565,29 @@
   {
     "categories": [
       {
-        "confidence": 35,
-        "name": "Needs review",
-        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "confidence": 77,
+        "name": "Data privacy",
+        "reason": "Score 32: privacy, tracking",
         "slug": "privacy"
+      }
+    ],
+    "id": "4ae92d1f634fac2f",
+    "ingestedAt": "2026-05-08T19:35:49.744Z",
+    "publishedAt": "2026-04-29T15:08:39.000Z",
+    "severity": 2,
+    "source": "Center for Democracy and Technology",
+    "status": "active",
+    "summary": "This op-ed, authored by CDT’s Jake Laperruque first appeared in Tech Policy Press on April 29, 2026. A portion of the text has been pasted below. This week, the Supreme Court heard oral arguments in Chatrie v. United States, a Fourth Amendment case with potentially profound implications for location tracking and privacy in the digital age. [&#8230;] The p...",
+    "title": "Op-ed: SCOTUS’s Signals in Chatrie and on the Potential Limits of Location Tracking",
+    "url": "https://cdt.org/insights/op-ed-scotuss-signals-in-chatrie-and-on-the-potential-limits-of-location-tracking/"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 63,
+        "name": "Addiction / emotional dependency",
+        "reason": "Score 18: dependency",
+        "slug": "addiction_dependency"
       }
     ],
     "id": "e46d9c08d1078405",
@@ -366,7 +606,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "2eabf4c9aa99972f",
@@ -382,9 +622,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: surveillance",
+        "reason": "Score 22: surveillance",
         "slug": "privacy"
       }
     ],
@@ -404,7 +644,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "d36b2807f981379d",
@@ -420,9 +660,9 @@
   {
     "categories": [
       {
-        "confidence": 75,
+        "confidence": 87,
         "name": "Data privacy",
-        "reason": "Matched: privacy, tracking",
+        "reason": "Score 42: privacy, tracking, personal information",
         "slug": "privacy"
       }
     ],
@@ -442,7 +682,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "183e74f6bac1837b",
@@ -458,9 +698,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: surveillance",
+        "reason": "Score 22: surveillance",
         "slug": "privacy"
       }
     ],
@@ -480,7 +720,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "fbeb95b6b6263b1b",
@@ -496,9 +736,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 59,
         "name": "Algorithmic bias",
-        "reason": "Matched: fairness",
+        "reason": "Score 14: fairness",
         "slug": "bias"
       }
     ],
@@ -518,7 +758,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "36981756dbc8deca",
@@ -538,7 +778,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "8ee3ae4e7f933d27",
@@ -558,7 +798,27 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "23ef0dd88f7b0edb",
+    "ingestedAt": "2026-05-08T19:37:14.968Z",
+    "publishedAt": "2026-04-22T17:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "It's all about the angle: Your photos, re-composed",
+    "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/",
+    "archivedAt": "2026-05-08T19:45:16.862Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "1e1e77980a19be5d",
@@ -578,7 +838,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "9efec5ac40f70d80",
@@ -595,10 +855,30 @@
   {
     "categories": [
       {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "15e0d38d97945d4e",
+    "ingestedAt": "2026-05-08T19:37:14.968Z",
+    "publishedAt": "2026-04-21T16:42:22.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "ReasoningBank: Enabling agents to learn from experience",
+    "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "86ffaa1af46ff4e9",
@@ -615,9 +895,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -638,7 +918,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "2b8b1686faac096f",
@@ -658,7 +938,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "dc4316fd63673ff1",
@@ -678,7 +958,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "df9e53d9503d183e",
@@ -695,9 +975,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -718,7 +998,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "5cbf686ce0606573",
@@ -738,7 +1018,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "9fabc2dbd0afd17e",
@@ -755,9 +1035,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -778,7 +1058,67 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "ccc8f73fce7537a1",
+    "ingestedAt": "2026-05-08T19:37:14.968Z",
+    "publishedAt": "2026-04-16T14:41:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+    "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "7ca3e9094e761283",
+    "ingestedAt": "2026-05-08T19:37:14.968Z",
+    "publishedAt": "2026-04-16T12:18:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "General Science",
+    "title": "AI-generated synthetic neurons speed up brain mapping",
+    "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c5a234a5b8ef6ff7",
+    "ingestedAt": "2026-05-08T19:35:50.871Z",
+    "publishedAt": "2026-04-16T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "A NIST researcher has unveiled the results of a 10-year quest to measure the constant.",
+    "title": "NIST Weighs In on the Mystery of the Gravitational Constant",
+    "url": "https://www.nist.gov/news-events/news/2026/04/nist-weighs-mystery-gravitational-constant",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "81a085af037fde49",
@@ -798,7 +1138,27 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "7958de2d1ac18e9a",
+    "ingestedAt": "2026-05-08T19:35:50.872Z",
+    "publishedAt": "2026-04-15T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
+    "title": "Any Color You Like: NIST Scientists Create ‘Any Wavelength’ Lasers in Tiny Circuits for Light",
+    "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "6de4c16f6bf64ed0",
@@ -818,7 +1178,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "eba351918e7dca2a",
@@ -838,7 +1198,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "2a2883e92d63ebf6",
@@ -855,16 +1215,16 @@
   {
     "categories": [
       {
-        "confidence": 35,
-        "name": "Needs review",
-        "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "confidence": 71,
+        "name": "Bad actors",
+        "reason": "Score 26: criminal",
+        "slug": "bad_actors"
       }
     ],
     "id": "b1fa26905c360cb9",
     "ingestedAt": "2026-05-08T18:11:10.503Z",
     "publishedAt": "2026-04-13T22:07:09.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "EFF Updates",
     "status": "archived",
     "summary": "California’s bill, A.B. 2047 , will not only mandate censorware — software which exists to bluntly block your speech as a user — on all 3D printers; it will also criminalize the use of open-source alternatives. Repeating the mistakes of Digital Rights Management (DRM) technologies won’t make anyone safer. What it will do is hurt innovation in the state an...",
@@ -875,9 +1235,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -895,9 +1255,29 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 71,
+        "name": "Loss of independent thinking",
+        "reason": "Score 26: education",
+        "slug": "independent_thinking"
+      }
+    ],
+    "id": "321d179ca5268e53",
+    "ingestedAt": "2026-05-08T19:37:14.968Z",
+    "publishedAt": "2026-04-13T18:15:59.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Education Innovation",
+    "title": "Towards developing future-ready skills with generative AI",
+    "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: surveillance",
+        "reason": "Score 22: surveillance",
         "slug": "privacy"
       }
     ],
@@ -918,7 +1298,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "7eaab8005151e10b",
@@ -935,9 +1315,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 63,
         "name": "Disinformation",
-        "reason": "Matched: misinformation",
+        "reason": "Score 18: misinformation",
         "slug": "disinformation"
       }
     ],
@@ -958,7 +1338,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "7444a969409a123d",
@@ -978,7 +1358,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "26ee92249b5ab9fc",
@@ -995,9 +1375,9 @@
   {
     "categories": [
       {
-        "confidence": 75,
+        "confidence": 77,
         "name": "Data privacy",
-        "reason": "Matched: privacy, surveillance",
+        "reason": "Score 32: privacy, surveillance",
         "slug": "privacy"
       }
     ],
@@ -1018,7 +1398,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "01fbe6d3394e2492",
@@ -1038,7 +1418,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "8c22cf991a0485f0",
@@ -1058,7 +1438,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "d4792b9dd5fa54b7",
@@ -1078,7 +1458,47 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "0b3b78bf445dcb68",
+    "ingestedAt": "2026-05-08T19:37:14.969Z",
+    "publishedAt": "2026-04-09T11:22:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
+    "url": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "5f4680a3963bb09e",
+    "ingestedAt": "2026-05-08T19:37:14.969Z",
+    "publishedAt": "2026-04-08T20:01:33.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
+    "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "db89acdcdf12c58a",
@@ -1098,7 +1518,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "846d9f40ad1f0d9e",
@@ -1115,9 +1535,9 @@
   {
     "categories": [
       {
-        "confidence": 85,
+        "confidence": 87,
         "name": "Data privacy",
-        "reason": "Matched: privacy, surveillance, tracking",
+        "reason": "Score 42: privacy, surveillance, tracking",
         "slug": "privacy"
       }
     ],
@@ -1135,9 +1555,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: surveillance",
+        "reason": "Score 22: surveillance",
         "slug": "privacy"
       }
     ],
@@ -1155,16 +1575,16 @@
   {
     "categories": [
       {
-        "confidence": 35,
-        "name": "Needs review",
-        "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "confidence": 67,
+        "name": "AI advancement / changes",
+        "reason": "Score 22: ai regulation",
+        "slug": "ai_advancement"
       }
     ],
     "id": "405124b5c7e4228a",
     "ingestedAt": "2026-05-08T18:11:12.032Z",
     "publishedAt": "2026-04-07T20:04:34.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "AI Now Institute",
     "status": "archived",
     "summary": "But broad skepticism and fear about the impact of AI have made opposing all regulation untenable for tech company CEOs, said Kak, who is co-executive director of the AI Now Institute, which has advocated for AI regulation. If they can’t oppose every policy, “What’s the next best move?” she asked. “It’s to place yourself in the driver’s seat, and that is w...",
@@ -1175,9 +1595,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -1195,9 +1615,9 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -1218,7 +1638,67 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "d420929810345f2c",
+    "ingestedAt": "2026-05-08T19:37:14.969Z",
+    "publishedAt": "2026-04-03T08:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Evaluating alignment of behavioral dispositions in LLMs",
+    "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: benchmark",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "42a406893f876570",
+    "ingestedAt": "2026-05-08T19:37:14.969Z",
+    "publishedAt": "2026-03-31T16:16:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Building better AI benchmarks: How many raters are enough?",
+    "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "100ec259db6203fe",
+    "ingestedAt": "2026-05-08T19:37:14.969Z",
+    "publishedAt": "2026-03-31T02:03:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+    "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "b4d89207483c481a",
@@ -1238,7 +1718,247 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "36c6dec610f87373",
+    "ingestedAt": "2026-05-08T19:35:50.872Z",
+    "publishedAt": "2026-03-30T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The advance could allow these technologies to operate in deep-space probes, inside nuclear reactors, in ultrahigh vacuum systems, and at temperatures both near absolute zero and in scorchingly hot industrial settings.",
+    "title": "NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments",
+    "url": "https://www.nist.gov/news-events/news/2026/03/nist-researchers-develop-photonic-chip-packaging-can-withstand-extreme",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "67a41177a9ef764c",
+    "ingestedAt": "2026-05-08T19:37:14.969Z",
+    "publishedAt": "2026-03-25T09:14:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Human-Computer Interaction and Visualization",
+    "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
+    "url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "30089e2028e6ae34",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-24T19:54:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c1d984662c886a66",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-24T17:42:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+    "url": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "d5a056242462a371",
+    "ingestedAt": "2026-05-08T19:35:50.872Z",
+    "publishedAt": "2026-03-23T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The new tools are an annotated collection of 10,000 fingerprints and a software program that can sort fingerprints according to their quality.",
+    "title": "NIST Helps Fingerprint Examiners With New Data and Software Release",
+    "url": "https://www.nist.gov/news-events/news/2026/03/nist-helps-fingerprint-examiners-new-data-and-software-release",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "a93539848b203c76",
+    "ingestedAt": "2026-05-08T19:35:50.873Z",
+    "publishedAt": "2026-03-19T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The report includes an overview of work completed on the Champlain Towers South investigation.",
+    "title": "NIST Submits Annual Report to Congress Summarizing FY 2025 Progress on National Construction Safety Team Investigations",
+    "url": "https://www.nist.gov/news-events/news/2026/03/nist-submits-annual-report-congress-summarizing-fy-2025-progress-national",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "b5ebbee471f576e2",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-17T19:47:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Health & Bioscience",
+    "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
+    "url": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "Algorithmic bias",
+        "reason": "Score 14: screening",
+        "slug": "bias"
+      }
+    ],
+    "id": "d824d361772f6d3a",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-17T16:57:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Health & Bioscience",
+    "title": "Improving breast cancer screening workflows with machine learning",
+    "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 71,
+        "name": "Loss of independent thinking",
+        "reason": "Score 26: education",
+        "slug": "independent_thinking"
+      }
+    ],
+    "id": "ce7dc309303c507a",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-16T17:31:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Education Innovation",
+    "title": "Testing LLMs on superconductivity research questions",
+    "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "dc6038483727be59",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-12T13:03:15.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Protecting cities with AI-driven flash flood forecasting",
+    "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "051065bd36119078",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-12T10:42:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Introducing Groundsource: Turning news reports into data with Gemini",
+    "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "f7bb80dd690d5936",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-11T16:58:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
+    "url": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "701d7cb3f983cb27",
@@ -1258,7 +1978,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "7d654a6a350dea17",
@@ -1275,16 +1995,62 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "eb122dde1df4e64d",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-06T20:06:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Natural Language Processing",
+    "title": "WAXAL: A large-scale open resource for African language speech technology",
+    "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "a816a086899d3f88",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-06T17:59:38.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Where wild things roam: Identifying wildlife with SpeciesNet",
+    "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: surveillance",
+        "reason": "Score 22: surveillance",
         "slug": "privacy"
+      },
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
       }
     ],
     "id": "57adbb215e171f87",
     "ingestedAt": "2026-05-08T18:11:11.140Z",
     "publishedAt": "2026-03-06T13:00:00.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "The Markup",
     "status": "archived",
     "summary": "Southern California residents are noticing new license plate readers that appear to be operated by the Border Patrol. Some have had confusing encounters with agents.",
@@ -1298,13 +2064,33 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "db0ffa036daa823f",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-03-04T20:29:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Teaching LLMs to reason like Bayesians",
+    "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 75,
+        "name": "Data privacy",
+        "reason": "Score 30: data broker",
         "slug": "privacy"
       }
     ],
     "id": "510ff10d46107435",
     "ingestedAt": "2026-05-08T18:11:11.140Z",
     "publishedAt": "2026-02-27T18:15:00.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "The Markup",
     "status": "archived",
     "summary": "A congressional investigation estimates broker breaches have cost consumers $20 billion in identity theft. Major brokers now promise to make it easier to opt out of their databases.",
@@ -1315,9 +2101,9 @@
   {
     "categories": [
       {
-        "confidence": 35,
-        "name": "Needs review",
-        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "confidence": 67,
+        "name": "Data privacy",
+        "reason": "Score 22: personal information",
         "slug": "privacy"
       }
     ],
@@ -1335,9 +2121,169 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "a95e0227490e9925",
+    "ingestedAt": "2026-05-08T19:35:50.873Z",
+    "publishedAt": "2026-02-19T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The award highlights organizations that focus on resilience.",
+    "title": "2 Health Care Organizations Will Receive 2025 Baldrige National Quality Awards",
+    "url": "https://www.nist.gov/news-events/news/2026/02/2-health-care-organizations-will-receive-2025-baldrige-national-quality",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c1e4f65b1ad4dede",
+    "ingestedAt": "2026-05-08T19:37:14.970Z",
+    "publishedAt": "2026-02-17T21:37:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Machine Perception",
+    "title": "Teaching AI to read a map",
+    "url": "https://research.google/blog/teaching-ai-to-read-a-map/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "fc3754ca6900e8f4",
+    "ingestedAt": "2026-05-08T19:35:50.874Z",
+    "publishedAt": "2026-02-17T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
+    "title": "Announcing the \"AI Agent Standards Initiative\" for Interoperable and Secure Innovation",
+    "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "ae49427bef3f6209",
+    "ingestedAt": "2026-05-08T19:35:50.875Z",
+    "publishedAt": "2026-02-17T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The reference material is the first to include mixtures of high-quality and degraded DNA from different individuals.",
+    "title": "NIST Releases New Forensic Genetic Reference Material to Help Crime Laboratories Analyze Challenging Cases",
+    "url": "https://www.nist.gov/news-events/news/2026/02/nist-releases-new-forensic-genetic-reference-material-help-crime",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5b92165c8f3ba99c",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-02-11T10:34:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+    "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "215d22fdf45ded62",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-02-10T18:30:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Human-Computer Interaction and Visualization",
+    "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+    "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "dee85ba4ff5dfae1",
+    "ingestedAt": "2026-05-08T19:35:50.875Z",
+    "publishedAt": "2026-02-10T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "NIST is allocating funding to eight small businesses in seven states under the Small Business Innovation Research (SBIR) program.",
+    "title": "NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More",
+    "url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 89,
+        "name": "Environmental harm",
+        "reason": "Score 44: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "8a6bd48e37e3ac23",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-02-09T18:38:00.000Z",
+    "severity": 4,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "How AI trained on birds is surfacing underwater mysteries",
+    "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
         "name": "Data privacy",
-        "reason": "Matched: privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
       }
     ],
@@ -1358,7 +2304,87 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "ef8e699aff21b555",
+    "ingestedAt": "2026-05-08T19:35:50.875Z",
+    "publishedAt": "2026-02-09T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Seven NIST reference materials, including house dust and freeze-dried human liver tissue, have been flown to the International Space Station.",
+    "title": "Space: The Final Frontier for Standards",
+    "url": "https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 71,
+        "name": "Loss of independent thinking",
+        "reason": "Score 26: education",
+        "slug": "independent_thinking"
+      }
+    ],
+    "id": "e938ddbe7f98d40a",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-02-05T08:28:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Education Innovation",
+    "title": "How AI tools can redefine universal design to increase accessibility",
+    "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "618f4a0b4d3f42da",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-02-04T15:14:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+    "url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "8ebedf130d347011",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-02-03T18:15:01.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
+    "url": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "00a633f8dc1c717f",
@@ -1378,7 +2404,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "f21d8f94e29fb152",
@@ -1395,10 +2421,50 @@
   {
     "categories": [
       {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "8e6380fc0361a1c2",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-01-28T11:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Towards a science of scaling agent systems: When and why agent systems work",
+    "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "908dd0753141a009",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-01-27T18:58:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "ATLAS: Practical scaling laws for multilingual models",
+    "url": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 63,
+        "name": "Bad actors",
+        "reason": "Score 18: scam",
+        "slug": "bad_actors"
       }
     ],
     "id": "17c11ad9e8510251",
@@ -1418,7 +2484,47 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "beb515b2fbd2d61f",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-01-23T17:46:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Introducing GIST: The next stage in smart sampling",
+    "url": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
+    "archivedAt": "2026-05-08T19:45:16.872Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "cdd203a7561c217f",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-01-22T16:56:44.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Small models, big results: Achieving superior intent extraction through decomposition",
+    "url": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "0482c45879f45e66",
@@ -1438,7 +2544,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "25036ce3895275f7",
@@ -1458,7 +2564,27 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "3782f982cf805d18",
+    "ingestedAt": "2026-05-08T19:37:14.971Z",
+    "publishedAt": "2026-01-15T22:56:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Health & Bioscience",
+    "title": "Unlocking health insights: Estimating advanced walking metrics with smartwatches",
+    "url": "https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "576fead6b2ba391d",
@@ -1475,9 +2601,109 @@
   {
     "categories": [
       {
-        "confidence": 65,
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "b9551ea923c77206",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2026-01-13T22:44:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Hard-braking events as indicators of road segment crash risk",
+    "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "69cdb5634f5ed98c",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2026-01-13T20:57:16.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
+    "url": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "22f584f32ef549d6",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2026-01-13T17:32:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Quantum",
+    "title": "Dynamic surface codes open new avenues for quantum error correction",
+    "url": "https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "da8e12b0199ad8c2",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2026-01-12T17:52:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "NeuralGCM harnesses AI to better simulate long-range global precipitation",
+    "url": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "208c2512eb49a6f3",
+    "ingestedAt": "2026-05-08T19:35:50.875Z",
+    "publishedAt": "2026-01-12T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The Center for AI Standards and Innovation (CAISI) at the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has published a Request for Information (RFI) seeking insights from industry, academia, and the security",
+    "title": "CAISI Issues Request for Information About Securing AI Agent Systems",
+    "url": "https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 77,
         "name": "Data privacy",
-        "reason": "Matched: personal data",
+        "reason": "Score 32: data broker, personal data",
         "slug": "privacy"
       }
     ],
@@ -1498,7 +2724,7 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
       }
     ],
     "id": "9414390f6d1c8ff5",
@@ -1518,7 +2744,87 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "563d1d66cd664c48",
+    "ingestedAt": "2026-05-08T19:35:50.877Z",
+    "publishedAt": "2025-12-22T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "NIST has expanded its collaboration with the nonprofit MITRE Corporation as part of its efforts to ensure U.S. leadership in artificial intelligence.",
+    "title": "NIST Launches Centers for AI in Manufacturing and Critical Infrastructure",
+    "url": "https://www.nist.gov/news-events/news/2025/12/nist-launches-centers-ai-manufacturing-and-critical-infrastructure",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "09baa61a9656fb2c",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2025-12-18T23:29:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Year in Review",
+    "title": "Google Research 2025: Bolder breakthroughs, bigger impact",
+    "url": "https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "ba1ef4173f4a0d00",
+    "ingestedAt": "2026-05-08T19:35:50.877Z",
+    "publishedAt": "2025-12-18T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Molecules can serve as versatile building blocks for quantum technologies, but they are much harder to control than atoms.",
+    "title": "NIST Physicists Bring Unruly Molecules to the Quantum Party",
+    "url": "https://www.nist.gov/news-events/news/2025/12/nist-physicists-bring-unruly-molecules-quantum-party",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
+        "name": "Data privacy",
+        "reason": "Score 22: privacy",
         "slug": "privacy"
+      }
+    ],
+    "id": "e21a64f36babcf3c",
+    "ingestedAt": "2026-05-08T19:35:50.877Z",
+    "publishedAt": "2025-12-17T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Cybersecurity and privacy risks can threaten patient confidentiality.",
+    "title": "Securing Smart Speakers for Home Health Care: NIST Offers New Guidelines",
+    "url": "https://www.nist.gov/news-events/news/2025/12/securing-smart-speakers-home-health-care-nist-offers-new-guidelines",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "7b228a9fe0c232fb",
@@ -1538,13 +2844,73 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "579ec2c3e039a7a6",
+    "ingestedAt": "2026-05-08T19:35:50.877Z",
+    "publishedAt": "2025-12-16T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "New guidelines can help an organization determine ways to incorporate AI into its operations while mitigating cybersecurity risks.",
+    "title": "Draft NIST Guidelines Rethink Cybersecurity for the AI Era",
+    "url": "https://www.nist.gov/news-events/news/2025/12/draft-nist-guidelines-rethink-cybersecurity-ai-era",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "061b1b3156803f96",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2025-12-15T17:37:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Gemini provides automated feedback for theoretical computer scientists at STOC 2026",
+    "url": "https://research.google/blog/gemini-provides-automated-feedback-for-theoretical-computer-scientists-at-stoc-2026/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "205e79a86585ef7e",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2025-12-12T10:42:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Conferences & Events",
+    "title": "Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa",
+    "url": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
+        "name": "AI advancement / changes",
+        "reason": "Score 22: ai regulation",
+        "slug": "ai_advancement"
       }
     ],
     "id": "ab91a07e78a00866",
     "ingestedAt": "2026-05-08T18:11:11.140Z",
     "publishedAt": "2025-12-12T01:45:00.000Z",
-    "severity": 2,
+    "severity": 3,
     "source": "The Markup",
     "status": "archived",
     "summary": "Since 2016, California enacted more AI regulations than any other state. The president's new order against such laws worries state officials.",
@@ -1558,7 +2924,107 @@
         "confidence": 35,
         "name": "Needs review",
         "reason": "No taxonomy keyword matched; retained for analyst review.",
-        "slug": "privacy"
+        "slug": "review"
+      }
+    ],
+    "id": "cab0d5159ac76e90",
+    "ingestedAt": "2026-05-08T19:35:50.878Z",
+    "publishedAt": "2025-12-11T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Beginning with the 2026 award cycle, the Alliance for Performance Excellence and the Baldrige Foundation will take on most operations for the program.",
+    "title": "Department of Commerce Announces Transition of Baldrige Performance Excellence Program",
+    "url": "https://www.nist.gov/news-events/news/2025/12/department-commerce-announces-transition-baldrige-performance-excellence",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "40ebfc73f7cb7f02",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2025-12-10T21:59:41.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "A differentially private framework for gaining insights into AI chatbot use",
+    "url": "https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "58a0c016acd5676e",
+    "ingestedAt": "2026-05-08T19:37:14.972Z",
+    "publishedAt": "2025-12-04T19:26:09.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Titans + MIRAS: Helping AI have long-term memory",
+    "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: benchmark",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "323d9e941a4be3fb",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-12-03T22:47:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Machine Intelligence",
+    "title": "From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence",
+    "url": "https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "82ed7a8c9ac9698c",
+    "ingestedAt": "2026-05-08T19:35:50.878Z",
+    "publishedAt": "2025-12-01T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "This calculation is necessary for future space navigation and communication networks.",
+    "title": "What Time Is It on Mars? NIST Physicists Have the Answer.",
+    "url": "https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
       }
     ],
     "id": "7fd0fc712c485b71",
@@ -1571,5 +3037,1751 @@
     "title": "How American Big Tech guards the profits it extracts around the world",
     "url": "https://themarkup.org/hello-world/2025/11/22/how-american-big-tech-guards-the-profits-it-extracts-around-the-world",
     "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "bbdedb3cb153387a",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-11-21T16:27:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Reducing EV range anxiety: How a simple AI model predicts port availability",
+    "url": "https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "fdd56ca7a63a5a3e",
+    "ingestedAt": "2026-05-08T19:35:50.878Z",
+    "publishedAt": "2025-11-20T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Making metals processing more sustainable and resilient will support U.S industrial innovation and competitiveness.",
+    "title": "Building a Sustainable Metals Infrastructure: NIST Report Highlights Key Strategies",
+    "url": "https://www.nist.gov/news-events/news/2025/11/building-sustainable-metals-infrastructure-nist-report-highlights-key",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5b615e6bf5651879",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-11-19T09:59:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Real-time speech-to-speech translation",
+    "url": "https://research.google/blog/real-time-speech-to-speech-translation/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5fa35fb593da7b17",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-11-18T16:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Generative UI: A rich, custom, visual interactive user experience for any prompt",
+    "url": "https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "ed52d0a7504de372",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-11-13T19:04:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
+    "url": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "0f631e18138654d8",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-11-13T07:27:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "A new quantum toolkit for optimization",
+    "url": "https://research.google/blog/a-new-quantum-toolkit-for-optimization/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
+        "name": "Data privacy",
+        "reason": "Score 22: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "83b08d43c951fe38",
+    "ingestedAt": "2026-05-08T19:37:14.973Z",
+    "publishedAt": "2025-11-12T15:32:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Differentially private machine learning at scale with JAX-Privacy",
+    "url": "https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "0e47561f5fa2fec5",
+    "ingestedAt": "2026-05-08T19:37:14.975Z",
+    "publishedAt": "2025-11-07T17:37:22.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Introducing Nested Learning: A new ML paradigm for continual learning",
+    "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "5865cca40775128a",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-11-06T17:50:36.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Data Mining & Modeling",
+    "title": "DS-STAR: A state-of-the-art versatile data science agent",
+    "url": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "868c294c76062eeb",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-11-05T15:41:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Forecasting the future of forests with AI: From counting losses to predicting risk",
+    "url": "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "7a6cee9db61affef",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-11-04T16:58:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "General Science",
+    "title": "Exploring a space-based, scalable AI infrastructure system design",
+    "url": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "f4a950421d341cae",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-10-31T07:40:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Accelerating the magic cycle of research breakthroughs and real-world applications",
+    "url": "https://research.google/blog/accelerating-the-magic-cycle-of-research-breakthroughs-and-real-world-applications/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "15f352d085f761dc",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-10-30T10:56:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Toward provably private insights into AI use",
+    "url": "https://research.google/blog/toward-provably-private-insights-into-ai-use/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: multimodal",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "f28edfb0b2b481cc",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-10-29T16:38:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "StreetReaderAI: Towards making street view accessible via context-aware multimodal AI",
+    "url": "https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "e2ac104ea08f5655",
+    "ingestedAt": "2026-05-08T19:37:14.976Z",
+    "publishedAt": "2025-10-27T22:36:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "How we are building the personal health coach",
+    "url": "https://research.google/blog/how-we-are-building-the-personal-health-coach/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 81,
+        "name": "Environmental harm",
+        "reason": "Score 36: climate, sustainability",
+        "slug": "environmental_harm"
+      }
+    ],
+    "id": "5c9dfbd3d03050a4",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-23T08:08:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Climate & Sustainability",
+    "title": "Google Earth AI: Unlocking geospatial insights with foundation models and cross-modal reasoning",
+    "url": "https://research.google/blog/google-earth-ai-unlocking-geospatial-insights-with-foundation-models-and-cross-modal-reasoning/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "9e4d6cbdce6023c0",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-22T15:07:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Quantum",
+    "title": "A verifiable quantum advantage",
+    "url": "https://research.google/blog/a-verifiable-quantum-advantage/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "556b7895235f63e1",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-20T21:54:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums",
+    "url": "https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "8656947567d65838",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-20T09:19:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "General Science",
+    "title": "Teaching Gemini to spot exploding stars with just a few examples",
+    "url": "https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "ab5b6c5bd49a3071",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-17T17:56:35.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Solving virtual machine puzzles: How AI is optimizing cloud computing",
+    "url": "https://research.google/blog/solving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "f9c8d6f77bdddb7c",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-16T16:33:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "General Science",
+    "title": "Using AI to identify genetic variants in tumors with DeepSomatic",
+    "url": "https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "22dfb2c0e0c865a1",
+    "ingestedAt": "2026-05-08T19:37:14.977Z",
+    "publishedAt": "2025-10-15T13:07:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Coral NPU: A full-stack platform for Edge AI",
+    "url": "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "9d1f46d444f7720d",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-10-09T09:56:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "XR Blocks: Accelerating AI + XR innovation",
+    "url": "https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "6a970ad34bcb3c58",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-10-07T15:22:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Machine Intelligence",
+    "title": "​​Speech-to-Retrieval (S2R): A new approach to voice search",
+    "url": "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "f697db93a56c155c",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-10-02T17:04:05.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "A collaborative approach to image generation",
+    "url": "https://research.google/blog/a-collaborative-approach-to-image-generation/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "eccad012021fbf77",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-10-01T17:05:30.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Human-Computer Interaction and Visualization",
+    "title": "Introducing interactive on-device segmentation in Snapseed",
+    "url": "https://research.google/blog/introducing-interactive-on-device-segmentation-in-snapseed/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "2c8cb5e6c3b55f50",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-30T16:57:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "AI as a research partner: Advancing theoretical computer science with AlphaEvolve",
+    "url": "https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "4cb8ef0744ec7cf4",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-30T14:41:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "The anatomy of a personal health agent",
+    "url": "https://research.google/blog/the-anatomy-of-a-personal-health-agent/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "ff1a185c3aa33003",
+    "ingestedAt": "2026-05-08T19:35:50.879Z",
+    "publishedAt": "2025-09-30T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The Center for AI Standards and Innovation at NIST evaluated several leading models from DeepSeek, an AI company based in the People’s Republic of China.",
+    "title": "CAISI Evaluation of DeepSeek AI Models Finds Shortcomings and Risks",
+    "url": "https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "d5b151cf6ade10c0",
+    "ingestedAt": "2026-05-08T19:35:50.879Z",
+    "publishedAt": "2025-09-29T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "One of the biggest challenges with precast concrete is connecting the concrete pieces at a job site.",
+    "title": "NIST Engineers Design 5 New Ways to Connect Concrete Pieces for More Resilient Buildings",
+    "url": "https://www.nist.gov/news-events/news/2025/09/nist-engineers-design-5-new-ways-connect-concrete-pieces-more-resilient",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "028af7efdc52ca8f",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-25T10:33:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini",
+    "url": "https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: benchmark",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "d52b057bc0a3c6be",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-24T19:11:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "AfriMed-QA: Benchmarking large language models for global health",
+    "url": "https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c59ec424b711b61e",
+    "ingestedAt": "2026-05-08T19:35:50.879Z",
+    "publishedAt": "2025-09-24T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The CHIPS for America funding opportunity will support critical research, prototyping and commercial solutions that advance microelectronics technology in the United States.",
+    "title": "NIST Issues Broad Agency Announcement for Proposals to Advance Microelectronics Technologies",
+    "url": "https://www.nist.gov/news-events/news/2025/09/nist-issues-broad-agency-announcement-proposals-advance-microelectronics",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5158c894bf4ba783",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-23T18:00:43.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Time series foundation models can be few-shot learners",
+    "url": "https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "1d80c9e44dc08a04",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-19T20:43:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Machine Intelligence",
+    "title": "Deep researcher with test-time diffusion",
+    "url": "https://research.google/blog/deep-researcher-with-test-time-diffusion/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "8435d1dcca6634b3",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-18T20:10:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Human-Computer Interaction and Visualization",
+    "title": "Sensible Agent: A framework for unobtrusive interaction with proactive AR agents",
+    "url": "https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "48a72a0233e2f49f",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-17T17:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Making LLMs more accurate by using all of their layers",
+    "url": "https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "74fc79033c8012f9",
+    "ingestedAt": "2026-05-08T19:35:50.879Z",
+    "publishedAt": "2025-09-17T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "There are currently more than 514,000 cybersecurity job openings in the U.S.",
+    "title": "NIST Awards More Than $3 Million to Support Cybersecurity Workforce Development Across 13 States",
+    "url": "https://www.nist.gov/news-events/news/2025/09/nist-awards-more-3-million-support-cybersecurity-workforce-development",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 71,
+        "name": "Loss of independent thinking",
+        "reason": "Score 26: education",
+        "slug": "independent_thinking"
+      }
+    ],
+    "id": "c8845679b60d9ce8",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-16T17:01:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Education Innovation",
+    "title": "Learn Your Way: Reimagining textbooks with generative AI",
+    "url": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "4830dde03a18fc61",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-12T08:14:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "VaultGemma: The world's most capable differentially private LLM",
+    "url": "https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c1c7d424055713bd",
+    "ingestedAt": "2026-05-08T19:37:14.978Z",
+    "publishedAt": "2025-09-11T22:01:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Speculative cascades — A hybrid approach for smarter, faster LLM inference",
+    "url": "https://research.google/blog/speculative-cascades-a-hybrid-approach-for-smarter-faster-llm-inference/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "9a7d6c1da162a48f",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-09-11T17:18:36.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Health & Bioscience",
+    "title": "Smarter nucleic acid design with NucleoBench and AdaBeam",
+    "url": "https://research.google/blog/smarter-nucleic-acid-design-with-nucleobench-and-adabeam/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "12d3167c48cce3c5",
+    "ingestedAt": "2026-05-08T19:35:50.879Z",
+    "publishedAt": "2025-09-10T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "A team including scientists at NIST may have found a new way of dealing with noise at the microscopic scales where quantum physics reigns.",
+    "title": "In Quantum Sensing, What Beats Beating Noise? Meeting Noise Halfway.",
+    "url": "https://www.nist.gov/news-events/news/2025/09/quantum-sensing-what-beats-beating-noise-meeting-noise-halfway",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "0b4363b80b54af2c",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-09-09T17:08:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "General Science",
+    "title": "Accelerating scientific discovery with AI-powered Empirical Research Assistance",
+    "url": "https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "ce8c2458a8f8b428",
+    "ingestedAt": "2026-05-08T19:35:50.879Z",
+    "publishedAt": "2025-09-09T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Investigators share likely failure scenarios, advance indicators of building’s distress.",
+    "title": "Champlain Towers South Investigation Nears Completion of Technical Work",
+    "url": "https://www.nist.gov/news-events/news/2025/09/champlain-towers-south-investigation-nears-completion-technical-work",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "4e2d247a34551516",
+    "ingestedAt": "2026-05-08T19:35:50.880Z",
+    "publishedAt": "2025-09-08T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The NIST reference material, called NISTCHO, will help the biopharmaceutical industry develop new drugs more quickly and ensure that they are safe and effective.",
+    "title": "NIST’s ‘Living Reference Material’ Could Accelerate R&D of Lifesaving Biological Drugs",
+    "url": "https://www.nist.gov/news-events/news/2025/09/nists-living-reference-material-could-accelerate-rd-lifesaving-biological",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "1f7479a4463b2c3d",
+    "ingestedAt": "2026-05-08T19:35:50.880Z",
+    "publishedAt": "2025-09-02T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Many types of air cleaners can generate small amounts of air pollution. Until now, there was no standard way to measure these negative by-products.",
+    "title": "Some Air Cleaners Release Harmful By-Products. Now We Have a Way to Measure Them.",
+    "url": "https://www.nist.gov/news-events/news/2025/09/some-air-cleaners-release-harmful-products-now-we-have-way-measure-them",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 71,
+        "name": "Loss of independent thinking",
+        "reason": "Score 26: education",
+        "slug": "independent_thinking"
+      }
+    ],
+    "id": "d9bd1f60417ba7ff",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-27T17:19:00.000Z",
+    "severity": 3,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Education Innovation",
+    "title": "How Google’s AI can help transform health professions education",
+    "url": "https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
+        "name": "Data privacy",
+        "reason": "Score 22: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "0a60d2758aaf9564",
+    "ingestedAt": "2026-05-08T19:35:50.880Z",
+    "publishedAt": "2025-08-27T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The catalog revision is part of NIST’s response to a recent executive order on strengthening the nation’s cybersecurity.",
+    "title": "NIST Revises Security and Privacy Control Catalog to Improve Software Update and Patch Releases",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-revises-security-and-privacy-control-catalog-improve-software-update",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5e13811e35692213",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-26T12:34:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "A scalable framework for evaluating health language models",
+    "url": "https://research.google/blog/a-scalable-framework-for-evaluating-health-language-models/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "7c3455b0a64cb85a",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-21T18:05:35.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "From massive models to mobile magic: The tech behind YouTube real-time generative AI effects",
+    "url": "https://research.google/blog/from-massive-models-to-mobile-magic-the-tech-behind-youtube-real-time-generative-ai-effects/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "cc37e943c1aa5136",
+    "ingestedAt": "2026-05-08T19:35:50.881Z",
+    "publishedAt": "2025-08-21T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The technology, which may someday be as portable as a smartphone, promises faster and more accurate measurements of radiation exposure, potentially saving lives in critical situations.",
+    "title": "New Technique for Measuring DNA Damage Could Improve Cancer Therapy and Radiological Emergency Response",
+    "url": "https://www.nist.gov/news-events/news/2025/08/new-technique-measuring-dna-damage-could-improve-cancer-therapy-and",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "79e96afeeb2e93fa",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-20T19:24:05.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Algorithms & Theory",
+    "title": "Securing private data at scale with differentially private partition selection",
+    "url": "https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "d2472a6ba2abc101",
+    "ingestedAt": "2026-05-08T19:35:50.881Z",
+    "publishedAt": "2025-08-20T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The new method will be useful in various fields, including nanomedicine, food science, environmental science and advanced manufacturing.",
+    "title": "NIST Researchers Develop More Accurate Formula for Measuring Particle Concentration",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-researchers-develop-more-accurate-formula-measuring-particle",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "d8acad4a18d8b13d",
+    "ingestedAt": "2026-05-08T19:35:50.881Z",
+    "publishedAt": "2025-08-18T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The winning projects were competitively selected following a call for innovative proposals that address technical needs related to NIST’s research areas.",
+    "title": "NIST Awards Over $1.8 Million to Small Businesses Advancing AI, Semiconductors, Additive Manufacturing and More",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-awards-over-18-million-small-businesses-advancing-ai-semiconductors",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 63,
+        "name": "Bad actors",
+        "reason": "Score 18: fraud",
+        "slug": "bad_actors"
+      }
+    ],
+    "id": "a9ce4f8b5d9a15fe",
+    "ingestedAt": "2026-05-08T19:35:50.881Z",
+    "publishedAt": "2025-08-18T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Face morphing software, which combines photos of different people into a single image, is being used to commit identity fraud.",
+    "title": "NIST Guidelines Can Help Organizations Detect Face Photo Morphs, Deter Identity Fraud",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-guidelines-can-help-organizations-detect-face-photo-morphs-deter",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "95cdce98987bd6f8",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-14T19:06:20.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator",
+    "url": "https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "3a1f83ce74ace7e6",
+    "ingestedAt": "2026-05-08T19:35:50.881Z",
+    "publishedAt": "2025-08-13T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Four related algorithms are now ready for use to protect data created and transmitted by the Internet of Things and other electronics.",
+    "title": "NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices",
+    "archivedAt": "2026-05-08T19:45:16.873Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "e7dc445d00da6e06",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-12T17:24:51.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Enabling physician-centered oversight for AMIE",
+    "url": "https://research.google/blog/enabling-physician-centered-oversight-for-amie/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5352adca68095914",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-07T09:46:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Human-Computer Interaction and Visualization",
+    "title": "Achieving 10,000x training data reduction with high-fidelity labels",
+    "url": "https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "6b3d3dadfc5a8280",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-06T20:02:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Insulin resistance prediction from wearables and routine blood biomarkers",
+    "url": "https://research.google/blog/insulin-resistance-prediction-from-wearables-and-routine-blood-biomarkers/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "e14d1aa1ebd352ae",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-06T16:13:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "General Science",
+    "title": "Highly accurate genome polishing with DeepPolisher: Enhancing the foundation of genomic research",
+    "url": "https://research.google/blog/highly-accurate-genome-polishing-with-deeppolisher-enhancing-the-foundation-of-genomic-research/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "b1f466f184edd525",
+    "ingestedAt": "2026-05-08T19:35:50.882Z",
+    "publishedAt": "2025-08-06T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The public meetings will include updates on NIST’s investigations into the impacts of Hurricane Maria and the partial collapse of the Champlain Towers South.",
+    "title": "NIST to Provide Updates on Construction Safety Team Investigations in September Advisory Committee Meeting",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-provide-updates-construction-safety-team-investigations-september",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 59,
+        "name": "AI advancement / changes",
+        "reason": "Score 14: agent",
+        "slug": "ai_advancement"
+      }
+    ],
+    "id": "1a42919d3268116b",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-08-01T10:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Machine Intelligence",
+    "title": "MLE-STAR: A state-of-the-art machine learning engineering agent",
+    "url": "https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "b37ef9f709d047d9",
+    "ingestedAt": "2026-05-08T19:35:50.882Z",
+    "publishedAt": "2025-07-31T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Impurities in these drugs can cause undesirable immune responses in patients and can significantly drive up costs for drug manufacturers.",
+    "title": "New NIST Reference Material to Strengthen Quality Control for Biological Drugs",
+    "url": "https://www.nist.gov/news-events/news/2025/07/new-nist-reference-material-strengthen-quality-control-biological-drugs",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "4847244dc1a66271",
+    "ingestedAt": "2026-05-08T19:35:50.882Z",
+    "publishedAt": "2025-07-30T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "NIST is soliciting comments from the public on the draft until Sept. 12, and the agency is planning a virtual event to showcase the project and gather feedback on Aug. 27.",
+    "title": "NIST Consortium and Draft Guidelines Aim to Improve Security in Software Development",
+    "url": "https://www.nist.gov/news-events/news/2025/07/nist-consortium-and-draft-guidelines-aim-improve-security-software",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "e788ca0b116acac1",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-07-29T23:24:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Simulating large systems with Regression Language Models",
+    "url": "https://research.google/blog/simulating-large-systems-with-regression-language-models/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "43cf59a0afde7ea7",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-07-28T17:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "SensorLM: Learning the language of wearable sensors",
+    "url": "https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "19931fe6b1aec546",
+    "ingestedAt": "2026-05-08T19:35:50.882Z",
+    "publishedAt": "2025-07-24T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "Currently there are no reliable roadside tests to determine when a person consumed cannabis or how intoxicated they are as a result.",
+    "title": "NIST Makes First Detection of Cannabis in Breath From Edibles",
+    "url": "https://www.nist.gov/news-events/news/2025/07/nist-makes-first-detection-cannabis-breath-edibles",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 67,
+        "name": "Data privacy",
+        "reason": "Score 22: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "8105bb391b671722",
+    "ingestedAt": "2026-05-08T19:37:14.979Z",
+    "publishedAt": "2025-07-24T09:42:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications",
+    "url": "https://research.google/blog/synthetic-and-federated-privacy-preserving-domain-adaptation-with-llms-for-mobile-applications/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "53b42bbf51213c06",
+    "ingestedAt": "2026-05-08T19:37:14.980Z",
+    "publishedAt": "2025-07-22T16:42:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Generative AI",
+    "title": "LSM-2: Learning from incomplete wearable sensor data",
+    "url": "https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "3497b66f146281e5",
+    "ingestedAt": "2026-05-08T19:37:14.980Z",
+    "publishedAt": "2025-07-17T19:00:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Hardware & Architecture",
+    "title": "Measuring heart rate with consumer ultra-wideband radar",
+    "url": "https://research.google/blog/measuring-heart-rate-with-consumer-ultra-wideband-radar/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "57b3bbd4cefbe012",
+    "ingestedAt": "2026-05-08T19:35:50.882Z",
+    "publishedAt": "2025-07-17T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "The award recognizes Maranghides for 25 years of work investigating devastating wildfires in the United States and creating actionable guidelines on how to save lives and property.",
+    "title": "NIST’s Alex Maranghides Receives Service to America Medal",
+    "url": "https://www.nist.gov/news-events/news/2025/07/nists-alex-maranghides-receives-service-america-medal",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "1a893e169917423a",
+    "ingestedAt": "2026-05-08T19:37:14.980Z",
+    "publishedAt": "2025-07-17T09:34:00.000Z",
+    "severity": 2,
+    "source": "Google Research Blog",
+    "status": "archived",
+    "summary": "Data Mining & Modeling",
+    "title": "Android Earthquake Alerts: A global system for early warning",
+    "url": "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "a0a0005225d515e4",
+    "ingestedAt": "2026-05-08T19:35:50.882Z",
+    "publishedAt": "2025-07-16T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "NIST and collaborating institutions have released extensive data about the genome of pancreatic cancer cells.",
+    "title": "NIST Releases Trove of Genetic Data to Spur Cancer Research",
+    "url": "https://www.nist.gov/news-events/news/2025/07/nist-releases-trove-genetic-data-spur-cancer-research",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "34712c005a89fd97",
+    "ingestedAt": "2026-05-08T19:35:50.883Z",
+    "publishedAt": "2025-07-14T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "As NIST’s National Construction Safety Team nears the end of its investigation, it has released a video update that highlights significant milestones and preliminary findings.",
+    "title": "NIST Shares Preliminary Findings From Hurricane Maria Investigation",
+    "url": "https://www.nist.gov/news-events/news/2025/07/nist-shares-preliminary-findings-hurricane-maria-investigation",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "fbcb3bf8fe6fc96b",
+    "ingestedAt": "2026-05-08T19:35:50.883Z",
+    "publishedAt": "2025-07-14T12:00:00.000Z",
+    "severity": 2,
+    "source": "NIST News",
+    "status": "archived",
+    "summary": "This new result contributes to the international effort to define the second with a much greater level of accuracy than before, enabling new scientific and technological advances.",
+    "title": "NIST Ion Clock Sets New Record for Most Accurate Clock in the World",
+    "url": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "8fa5deba2cb94691",
+    "ingestedAt": "2026-05-08T19:35:50.222Z",
+    "publishedAt": "2025-02-20T23:00:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "Mozilla’s Common Voice now features 60 hours of speech datasets in eight new Indigenous languages. Meet the Taiwan Language volunteers at RightsCon on February 27, 2025, in Taipei As thousands of languages face extinction, linguistic and heritage preservation has never been more critical. In Taiwan, a grassroots volunteer community is utilizing Mozilla’s...",
+    "title": "Mozilla Expands Volunteer-led Push for Inclusive AI in Taiwanese Indigenous Languages",
+    "url": "https://www.mozillafoundation.org/en/blog/mozilla-expands-volunteer-led-push-for-inclusive-ai-in-taiwanese-indigenous-languages/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "0125f0654c64fdf6",
+    "ingestedAt": "2026-05-08T19:35:50.222Z",
+    "publishedAt": "2024-12-11T13:13:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "The Common Voice team is honoured to be able to announce that the 20th version of our multilingual, open speech dataset is now available. This dataset release sees Aragonese , IsiNdebele (sometimes also known as Southern Ndebele), Southern Sotho and Tupuri to the dataset for the first time. The dedicated language activists, translators and contributors fo...",
+    "title": "Common Voice 20 is Now Available",
+    "url": "https://www.mozillafoundation.org/en/blog/common-voice-20-is-now-available/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "cd20e49b004b6312",
+    "ingestedAt": "2026-05-08T19:35:50.222Z",
+    "publishedAt": "2024-12-05T16:40:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "For over a decade, Mozilla Fellowships have sought to nurture talent at the intersection of technology and society. Launched in 2011, our fellowships program has grown into a recognized catalyst for some of the most celebrated leaders in open source innovation, public interest tech, and tech policy. From debunking myths about AI to exposing targeted disin...",
+    "title": "Build in the Open: Scouting Tech's Boldest Changemakers",
+    "url": "https://www.mozillafoundation.org/en/blog/build-in-the-open-scouting-techs-boldest-changemakers/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "30071f1f8ff98aed",
+    "ingestedAt": "2026-05-08T19:35:50.223Z",
+    "publishedAt": "2024-12-04T14:41:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "In order to better support a globally distributed community of dataset users, developers, language activists and voice contributors the Common Voice team is launching a Discord server. You can join the Discord community now by clicking here . Why Discord? The team wanted to balance using a communications tool that was already in widespread use with what t...",
+    "title": "Introducing the Common Voice Discord server",
+    "url": "https://www.mozillafoundation.org/en/blog/introducing-the-common-voice-discord-server/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "334ccbbb84c276a2",
+    "ingestedAt": "2026-05-08T19:35:50.224Z",
+    "publishedAt": "2024-11-27T15:25:08.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "MozFest House Zambia took place on November 20-21, 2024 at the Lusaka International Conference Center. Over 500 technologists, activists, funders, and creators gathered to explore the transformative potential of collective action towards ethical, open, and equitable AI that serves communities across Africa. MozFest House Zambia was a testament that joy, i...",
+    "title": "MozFest House Zambia 2024 Recap: A Celebration of Solidarity",
+    "url": "https://www.mozillafoundation.org/en/blog/mozfest-house-zambia-2024-recap-a-celebration-of-solidarity/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "5109fb9396195bc5",
+    "ingestedAt": "2026-05-08T19:35:50.224Z",
+    "publishedAt": "2024-11-25T14:08:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "At MozFest House Zambia, Skoll Foundation brought together technologists, policymakers, and activists who are implementing AI solutions on the continent to provide a ground-up perspective on the technology’s impact. The discussion illuminated the nuances of AI’s role in Africa. Practical Implications The conversation kicked off with examples of AI’s pract...",
+    "title": "AI in Africa: Promise, Pitfalls, and Politics",
+    "url": "https://www.mozillafoundation.org/en/blog/ai-in-africa-promise-pitfalls-and-politics/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "e72a197d33956577",
+    "ingestedAt": "2026-05-08T19:35:50.224Z",
+    "publishedAt": "2024-11-21T14:45:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "Grounded by our own open source roots, Mozilla has long funded open source technologies that help to untangle thorny sociotechnical issues. From the Mozilla Open Source Support (MOSS) program’s funding of critical building blocks of the open source ecosystem to the Data Futures Lab ’s support of new data governance models , and the Mozilla Technology Fund...",
+    "title": "Build in the Open: Funding the Future of Trustworthy Tech",
+    "url": "https://www.mozillafoundation.org/en/blog/funding-the-future-of-trustworthy-tech/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 83,
+        "name": "Data privacy",
+        "reason": "Score 38: biometric",
+        "slug": "privacy"
+      },
+      {
+        "confidence": 59,
+        "name": "Algorithmic bias",
+        "reason": "Score 14: discrimination",
+        "slug": "bias"
+      }
+    ],
+    "id": "3cb358577de4fab8",
+    "ingestedAt": "2026-05-08T19:35:50.224Z",
+    "publishedAt": "2024-11-19T16:14:00.000Z",
+    "severity": 5,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "Study of booming market shows how sharing and exploitation of health and biometric data fuels everything from insurance hikes to workplace discrimination (BUDAPEST, HUNGARY, NOVEMBER 20) — Health-related cybersecurity breaches and ransom attacks have skyrocketed more than 4000% – from 18 incidents in 2009 to 745 in 2023 in the United States only, targetin...",
+    "title": "Every Breath You Take, Every Move You Make: The Hidden Costs of a $500B Market Centered on Our Bodies",
+    "url": "https://www.mozillafoundation.org/en/blog/every-breath-you-take-every-move-you-make-the-hidden-costs-of-a-500b-market-centered-on-our-bodies/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "43ab758782b21052",
+    "ingestedAt": "2026-05-08T19:35:50.225Z",
+    "publishedAt": "2024-11-18T10:05:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "An ethnographic research into the datasets powering maternal healthcare app “DawaMom” used across Zambia and other Southern African countries (LUSAKA, ZAMBIA | MONDAY, NOVEMBER 18, 2024) — Emerging technologies like artificial intelligence (AI) are expected to strengthen access to quality healthcare , offering new opportunities to improve maternal health....",
+    "title": "Addressing AI Bias in Maternal Healthcare in Southern Africa",
+    "url": "https://www.mozillafoundation.org/en/blog/addressing-ai-bias-in-maternal-healthcare-in-southern-africa/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "review"
+      }
+    ],
+    "id": "c580540450e82ec9",
+    "ingestedAt": "2026-05-08T19:35:50.225Z",
+    "publishedAt": "2024-11-15T17:44:00.000Z",
+    "severity": 2,
+    "source": "Mozilla Foundation",
+    "status": "archived",
+    "summary": "True to our roots in open-source, we intend to go about the Foundation’s work transparently, learning and iterating out in the open. “Open” isn’t just for products – it’s a set of principles we want to bring to everything we do, whether it’s advocacy or grantmaking or community-building. (Spoiler: We’ve done this before !) This series of “Build in the Ope...",
+    "title": "Build in the Open: Open Tech Advocacy for a New Era",
+    "url": "https://www.mozillafoundation.org/en/blog/open-tech-advocacy-for-a-new-era/",
+    "archivedAt": "2026-05-08T19:45:16.874Z"
   }
 ]

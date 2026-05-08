@@ -30,6 +30,30 @@
       "type": "rss",
       "url": "https://ainowinstitute.org/feed/",
       "why_it_matters": "Research and policy analysis on AI accountability, power concentration, labor, and public interest harms."
+    },
+    {
+      "name": "Center for Democracy and Technology",
+      "type": "rss",
+      "url": "https://cdt.org/feed/",
+      "why_it_matters": "Digital rights, privacy, AI governance, civil liberties, and platform accountability."
+    },
+    {
+      "name": "Mozilla Foundation",
+      "type": "rss",
+      "url": "https://foundation.mozilla.org/en/blog/rss/",
+      "why_it_matters": "Public-interest technology coverage across privacy, AI accountability, and trustworthy internet issues."
+    },
+    {
+      "name": "Google Research Blog",
+      "type": "rss",
+      "url": "https://research.google/blog/rss/",
+      "why_it_matters": "Useful for tracking AI capability changes, research directions, model releases, and applied AI developments."
+    },
+    {
+      "name": "NIST News",
+      "type": "rss",
+      "url": "https://www.nist.gov/news-events/news/rss.xml",
+      "why_it_matters": "Primary US standards signal for AI risk management, safety, measurement, privacy, and cybersecurity."
     }
   ]
 }

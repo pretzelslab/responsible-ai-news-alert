@@ -7,15 +7,23 @@
         "privacy",
         "data breach",
         "data leak",
+        "data broker",
+        "data collection",
+        "data retention",
+        "data sharing",
         "consent",
         "surveillance",
         "biometric",
         "gdpr",
         "ccpa",
         "tracking",
-        "personal data"
+        "personal data",
+        "personal information",
+        "location data",
+        "sensitive data"
       ],
-      "severitySignals": ["breach", "children", "biometric", "sensitive data", "regulator"]
+      "severitySignals": ["breach", "children", "biometric", "sensitive data", "regulator"],
+      "priority": 3
     },
     {
       "name": "Disinformation",
@@ -30,7 +38,62 @@
         "election interference",
         "coordinated inauthentic"
       ],
-      "severitySignals": ["election", "public health", "violence", "state-backed", "deepfake"]
+      "severitySignals": ["election", "public health", "violence", "state-backed", "deepfake"],
+      "priority": 2
+    },
+    {
+      "name": "Addiction / emotional dependency",
+      "slug": "addiction_dependency",
+      "keywords": [
+        "addiction",
+        "dependency",
+        "emotional dependency",
+        "companion chatbot",
+        "parasocial",
+        "engagement loop",
+        "compulsive use",
+        "mental health",
+        "wellbeing",
+        "children",
+        "teen"
+      ],
+      "severitySignals": ["children", "teen", "self-harm", "mental health", "manipulative"],
+      "priority": 2
+    },
+    {
+      "name": "Bad actors",
+      "slug": "bad_actors",
+      "keywords": [
+        "cybercrime",
+        "scam",
+        "fraud",
+        "phishing",
+        "malware",
+        "abuse",
+        "jailbreak",
+        "criminal",
+        "impersonation",
+        "weaponization"
+      ],
+      "severitySignals": ["criminal", "malware", "financial loss", "phishing", "abuse"],
+      "priority": 2
+    },
+    {
+      "name": "Environmental harm",
+      "slug": "environmental_harm",
+      "keywords": [
+        "energy use",
+        "water use",
+        "emissions",
+        "carbon",
+        "data center",
+        "environmental impact",
+        "electricity demand",
+        "climate",
+        "sustainability"
+      ],
+      "severitySignals": ["water", "emissions", "grid", "climate", "community impact"],
+      "priority": 2
     },
     {
       "name": "Algorithmic bias",
@@ -45,7 +108,61 @@
         "automated decision",
         "screening"
       ],
-      "severitySignals": ["employment", "housing", "credit", "criminal justice", "healthcare"]
+      "severitySignals": ["employment", "housing", "credit", "criminal justice", "healthcare"],
+      "priority": 1
+    },
+    {
+      "name": "Loss of independent thinking",
+      "slug": "independent_thinking",
+      "keywords": [
+        "critical thinking",
+        "independent thinking",
+        "overreliance",
+        "cognitive offloading",
+        "deskilling",
+        "automation bias",
+        "student learning",
+        "education",
+        "judgment"
+      ],
+      "severitySignals": ["education", "children", "workplace", "deskilling", "professional judgment"],
+      "priority": 2
+    },
+    {
+      "name": "Loss of human control",
+      "slug": "human_control",
+      "keywords": [
+        "loss of control",
+        "human oversight",
+        "autonomous agent",
+        "agentic ai",
+        "runaway",
+        "override",
+        "human-in-the-loop",
+        "automation failure",
+        "autonomous decision"
+      ],
+      "severitySignals": ["critical infrastructure", "weapons", "healthcare", "finance", "safety"],
+      "priority": 3
+    },
+    {
+      "name": "AI advancement / changes",
+      "slug": "ai_advancement",
+      "keywords": [
+        "frontier model",
+        "model release",
+        "benchmark",
+        "capability",
+        "agent",
+        "multimodal",
+        "open model",
+        "reasoning model",
+        "ai regulation",
+        "ai act",
+        "governance framework"
+      ],
+      "severitySignals": ["frontier", "autonomous", "regulation", "safety", "capability"],
+      "priority": 1
     }
   ]
 }

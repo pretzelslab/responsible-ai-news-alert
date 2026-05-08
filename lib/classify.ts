@@ -4,6 +4,7 @@ import type { ArticleCategory } from "./article-types";
 type TaxonomyCategory = {
   keywords: string[];
   name: string;
+  priority?: number;
   severitySignals: string[];
   slug: ArticleCategory["slug"];
 };
@@ -30,14 +31,19 @@ export function classifyArticle(input: {
       return {
         category,
         keywordMatches,
-        severityMatches
+        severityMatches,
+        score:
+          keywordMatches.length * 10 +
+          severityMatches.length * 8 +
+          (category.priority ?? 0) * 4
       };
     })
     .filter((match) => match.keywordMatches.length > 0)
+    .sort((a, b) => b.score - a.score)
     .map((match) => ({
-      confidence: Math.min(95, 55 + match.keywordMatches.length * 10),
+      confidence: Math.min(95, 45 + match.score),
       name: match.category.name,
-      reason: `Matched: ${match.keywordMatches.slice(0, 4).join(", ")}`,
+      reason: `Score ${match.score}: ${match.keywordMatches.slice(0, 4).join(", ")}`,
       severityBoost: match.severityMatches.length,
       slug: match.category.slug
     }));
@@ -51,7 +57,7 @@ export function classifyArticle(input: {
             name: "Needs review",
             reason: "No taxonomy keyword matched; retained for analyst review.",
             severityBoost: 0,
-            slug: "privacy" as const
+            slug: "review" as const
           }
         ];
 

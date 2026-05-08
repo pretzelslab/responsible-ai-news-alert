@@ -1,4 +1,14 @@
-export type RiskCategorySlug = "privacy" | "disinformation" | "bias";
+export type RiskCategorySlug =
+  | "privacy"
+  | "disinformation"
+  | "addiction_dependency"
+  | "bad_actors"
+  | "environmental_harm"
+  | "bias"
+  | "independent_thinking"
+  | "human_control"
+  | "ai_advancement"
+  | "review";
 
 export type ArticleCategory = {
   confidence: number;

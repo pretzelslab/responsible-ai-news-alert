@@ -4,11 +4,17 @@
 
 Build a lightweight web dashboard that collects public news and analysis signals across selected risk spaces, keeps source links, highlights recent movement, and archives older material without paid infrastructure.
 
-## MVP Categories
+## Risk Categories
 
 1. Data privacy
 2. Disinformation
-3. Algorithmic bias
+3. Addiction / emotional dependency
+4. Bad actors
+5. Environmental harm
+6. Algorithmic bias
+7. Loss of independent thinking
+8. Loss of human control
+9. AI advancement / changes
 
 ## Functional Requirements
 
@@ -25,6 +31,31 @@ Build a lightweight web dashboard that collects public news and analysis signals
 - Run a weekly scheduled ingestion option through GitHub Actions when hosted in GitHub.
 - Group feed items by parent risk category with expandable sections.
 - Use source-provided or extractive summaries in the MVP; do not require paid AI-generated summaries.
+- Keep the primary feed body wide; move trend/category movement summaries out of the right rail.
+- Track source health so over-reliance on one source, such as EFF, is visible and correctable.
+
+## Classification And Scoring
+
+Classification is rule-based in the MVP.
+
+- Each category has keywords, severity signals, and a priority value.
+- Match score = `keyword matches * 10 + severity signal matches * 8 + priority * 4`.
+- Match percentage shown in the UI is currently confidence, calculated as `45 + match score`, capped at `95`.
+- Primary category is the highest-scoring category.
+- Severity is calculated from category count and severity-signal hits, capped at `5`.
+- Privacy has a higher priority than algorithmic bias so articles about data practices, tracking, sensitive data, or data sharing are less likely to be incorrectly grouped under algorithmic bias.
+
+These scores are directional triage aids, not ground truth. Analyst review should be used to tune keywords and priorities.
+
+## Source Strategy
+
+The feed should not depend on one source. The initial source set should include:
+
+- Primary regulators and standards bodies.
+- Civil society and digital rights groups.
+- Specialist accountability journalism.
+- AI research and governance institutes.
+- Carefully selected advancement/change feeds for model releases, capability shifts, and regulatory changes.
 
 ## Non-Functional Requirements
 

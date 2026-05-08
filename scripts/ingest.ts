@@ -6,7 +6,18 @@ import { readArticles, writeArticles } from "../lib/articles";
 import type { Article } from "../lib/article-types";
 
 async function main() {
-  const existing = readArticles();
+  const existing = readArticles().map((article) => {
+    const classified = classifyArticle({
+      summary: article.summary,
+      title: article.title
+    });
+
+    return {
+      ...article,
+      categories: classified.categories,
+      severity: classified.severity
+    };
+  });
   const byUrl = new Map(existing.map((article) => [canonicalizeUrl(article.url), article]));
   let added = 0;
   let failed = 0;

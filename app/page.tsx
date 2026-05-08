@@ -3,7 +3,18 @@ import type { Article, FeedWindow } from "@/lib/article-types";
 
 export const dynamic = "force-dynamic";
 
-const categoryOrder = ["Data privacy", "Disinformation", "Algorithmic bias", "Needs review"];
+const categoryOrder = [
+  "Data privacy",
+  "Disinformation",
+  "Addiction / emotional dependency",
+  "Bad actors",
+  "Environmental harm",
+  "Algorithmic bias",
+  "Loss of independent thinking",
+  "Loss of human control",
+  "AI advancement / changes",
+  "Needs review"
+];
 
 export default async function Home({
   searchParams
@@ -75,7 +86,26 @@ export default async function Home({
           </div>
         </section>
 
-        <div className="content-grid">
+        <section className="movement-strip" aria-label="Category movement">
+          <div className="movement-header">
+            <h3>Category movement</h3>
+          </div>
+          <div className="movement-list">
+            {categoryCounts.map((item) => (
+              <div className="trend-row" key={item.name}>
+                <div className="trend-meta">
+                  <span>{item.name}</span>
+                  <strong>{item.count}</strong>
+                </div>
+                <div className="bar" aria-hidden="true">
+                  <span style={{ width: `${item.percent}%` }} />
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <div className="feed-layout">
           <section className="feed" aria-label="Articles by risk category">
             {articles.length === 0 ? (
               <article className="article">
@@ -121,29 +151,13 @@ export default async function Home({
                         ))}
                         <span className="badge">Severity {article.severity}/5</span>
                       </div>
+                      <p className="score-note">{article.categories[0]?.reason}</p>
                     </article>
                   ))}
                 </div>
               </details>
             ))}
           </section>
-
-          <aside className="panel">
-            <h3>Category movement</h3>
-            <div className="trend-list">
-              {categoryCounts.map((item) => (
-                <div className="trend-row" key={item.name}>
-                  <div className="trend-meta">
-                    <span>{item.name}</span>
-                    <strong>{item.count}</strong>
-                  </div>
-                  <div className="bar" aria-hidden="true">
-                    <span style={{ width: `${item.percent}%` }} />
-                  </div>
-                </div>
-              ))}
-            </div>
-          </aside>
         </div>
       </section>
     </main>
