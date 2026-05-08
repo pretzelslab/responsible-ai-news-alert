@@ -1,7 +1,9 @@
 import { ageInDays, getArticles, getCategoryCounts, getFeedStats } from "@/lib/articles";
-import type { FeedWindow } from "@/lib/article-types";
+import type { Article, FeedWindow } from "@/lib/article-types";
 
 export const dynamic = "force-dynamic";
+
+const categoryOrder = ["Data privacy", "Disinformation", "Algorithmic bias", "Needs review"];
 
 export default async function Home({
   searchParams
@@ -13,6 +15,7 @@ export default async function Home({
   const articles = getArticles(feedWindow);
   const stats = getFeedStats(articles);
   const categoryCounts = getCategoryCounts(articles);
+  const groupedArticles = groupArticlesByPrimaryCategory(articles);
   const windowLabel = feedWindow === "archive" ? "Archive" : `Rolling ${feedWindow} days`;
 
   return (
@@ -73,7 +76,7 @@ export default async function Home({
         </section>
 
         <div className="content-grid">
-          <section className="feed" aria-label="Articles">
+          <section className="feed" aria-label="Articles by risk category">
             {articles.length === 0 ? (
               <article className="article">
                 <div className="article-top">
@@ -87,29 +90,41 @@ export default async function Home({
               </article>
             ) : null}
 
-            {articles.map((article) => (
-              <article className="article" key={article.url}>
-                <div className="article-top">
-                  <span className="source">
-                    {article.source} - {formatDate(new Date(article.publishedAt))}
-                  </span>
-                  <span className="source">{ageInDays(new Date(article.publishedAt))}d ago</span>
-                </div>
-                <h3>
-                  <a href={article.url} rel="noreferrer" target="_blank">
-                    {article.title}
-                  </a>
-                </h3>
-                <p>{article.summary}</p>
-                <div className="badges">
-                  {article.categories.map((category) => (
-                    <span className={`badge ${category.slug}`} key={category.name}>
-                      {category.name} - {category.confidence}%
-                    </span>
+            {groupedArticles.map((group, index) => (
+              <details className="category-group" key={group.name} open={index === 0}>
+                <summary>
+                  <span>{group.name}</span>
+                  <strong>{group.articles.length}</strong>
+                </summary>
+                <div className="group-feed">
+                  {group.articles.map((article) => (
+                    <article className="article" key={article.url}>
+                      <div className="article-top">
+                        <span className="source">
+                          {article.source} - {formatDate(new Date(article.publishedAt))}
+                        </span>
+                        <span className="source">
+                          {ageInDays(new Date(article.publishedAt))}d ago
+                        </span>
+                      </div>
+                      <h3>
+                        <a href={article.url} rel="noreferrer" target="_blank">
+                          {article.title}
+                        </a>
+                      </h3>
+                      <p>{article.summary}</p>
+                      <div className="badges">
+                        {article.categories.map((category) => (
+                          <span className={`badge ${category.slug}`} key={category.name}>
+                            {category.name} - {category.confidence}%
+                          </span>
+                        ))}
+                        <span className="badge">Severity {article.severity}/5</span>
+                      </div>
+                    </article>
                   ))}
-                  <span className="badge">Severity {article.severity}/5</span>
                 </div>
-              </article>
+              </details>
             ))}
           </section>
 
@@ -133,6 +148,23 @@ export default async function Home({
       </section>
     </main>
   );
+}
+
+function groupArticlesByPrimaryCategory(articles: Article[]) {
+  const groups = new Map<string, Article[]>();
+
+  for (const article of articles) {
+    const primaryCategory = article.categories[0]?.name ?? "Needs review";
+    groups.set(primaryCategory, [...(groups.get(primaryCategory) ?? []), article]);
+  }
+
+  return Array.from(groups.entries())
+    .map(([name, groupArticles]) => ({ articles: groupArticles, name }))
+    .sort((a, b) => {
+      const aIndex = categoryOrder.indexOf(a.name);
+      const bIndex = categoryOrder.indexOf(b.name);
+      return (aIndex === -1 ? 99 : aIndex) - (bIndex === -1 ? 99 : bIndex);
+    });
 }
 
 function formatDate(date: Date) {

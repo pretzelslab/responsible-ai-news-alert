@@ -23,6 +23,8 @@ Build a lightweight web dashboard that collects public news and analysis signals
 - Provide source links for every item.
 - Support adding/removing sources through configuration.
 - Run a weekly scheduled ingestion option through GitHub Actions when hosted in GitHub.
+- Group feed items by parent risk category with expandable sections.
+- Use source-provided or extractive summaries in the MVP; do not require paid AI-generated summaries.
 
 ## Non-Functional Requirements
 
