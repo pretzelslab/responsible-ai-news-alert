@@ -1,11 +1,19 @@
-import { getArticles, getCategoryCounts, getFeedStats } from "@/lib/sample-data";
+import { ageInDays, getArticles, getCategoryCounts, getFeedStats } from "@/lib/articles";
+import type { FeedWindow } from "@/lib/article-types";
 
-const windowLabel = "Rolling 7 days";
+export const dynamic = "force-dynamic";
 
-export default function Home() {
-  const articles = getArticles("active");
+export default async function Home({
+  searchParams
+}: {
+  searchParams: Promise<{ window?: string }>;
+}) {
+  const params = await searchParams;
+  const feedWindow = normalizeWindow(params.window);
+  const articles = getArticles(feedWindow);
   const stats = getFeedStats(articles);
   const categoryCounts = getCategoryCounts(articles);
+  const windowLabel = feedWindow === "archive" ? "Archive" : `Rolling ${feedWindow} days`;
 
   return (
     <main className="shell">
@@ -32,18 +40,22 @@ export default function Home() {
           </div>
           <div className="toolbar" aria-label="Feed controls">
             <div className="segmented">
-              <button className="active" type="button">
+              <a className={feedWindow === "7" ? "active" : ""} href="/">
                 7 days
-              </button>
-              <button type="button">14 days</button>
-              <button type="button">Archive</button>
+              </a>
+              <a className={feedWindow === "14" ? "active" : ""} href="/?window=14">
+                14 days
+              </a>
+              <a className={feedWindow === "archive" ? "active" : ""} href="/?window=archive">
+                Archive
+              </a>
             </div>
           </div>
         </div>
 
         <section className="metrics" aria-label="Feed summary">
           <div className="metric">
-            <span>Active items</span>
+            <span>Visible items</span>
             <strong>{stats.total}</strong>
           </div>
           <div className="metric">
@@ -62,13 +74,26 @@ export default function Home() {
 
         <div className="content-grid">
           <section className="feed" aria-label="Articles">
+            {articles.length === 0 ? (
+              <article className="article">
+                <div className="article-top">
+                  <span className="source">No articles yet</span>
+                </div>
+                <h3>Run ingestion to populate the feed</h3>
+                <p>
+                  Use <code>npm run ingest</code> and then <code>npm run archive</code> from the
+                  project folder.
+                </p>
+              </article>
+            ) : null}
+
             {articles.map((article) => (
               <article className="article" key={article.url}>
                 <div className="article-top">
                   <span className="source">
-                    {article.source} · {formatDate(article.publishedAt)}
+                    {article.source} - {formatDate(new Date(article.publishedAt))}
                   </span>
-                  <span className="source">{ageInDays(article.publishedAt)}d ago</span>
+                  <span className="source">{ageInDays(new Date(article.publishedAt))}d ago</span>
                 </div>
                 <h3>
                   <a href={article.url} rel="noreferrer" target="_blank">
@@ -79,7 +104,7 @@ export default function Home() {
                 <div className="badges">
                   {article.categories.map((category) => (
                     <span className={`badge ${category.slug}`} key={category.name}>
-                      {category.name} · {category.confidence}%
+                      {category.name} - {category.confidence}%
                     </span>
                   ))}
                   <span className="badge">Severity {article.severity}/5</span>
@@ -118,7 +143,10 @@ function formatDate(date: Date) {
   }).format(date);
 }
 
-function ageInDays(date: Date) {
-  const elapsed = Date.now() - date.getTime();
-  return Math.max(0, Math.floor(elapsed / (1000 * 60 * 60 * 24)));
+function normalizeWindow(value: string | undefined): FeedWindow {
+  if (value === "14" || value === "archive") {
+    return value;
+  }
+
+  return "7";
 }

@@ -1,0 +1,1575 @@
+[
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "f79f057ff43011ce",
+    "ingestedAt": "2026-05-08T18:11:10.495Z",
+    "publishedAt": "2026-05-08T17:23:00.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "EFF friend Guy Kawasaki has written a book: Everybody Has Something to Hide: Why and How to Use Signal to Preserve Your Privacy, Security, and Well-Being. This guide is now available in Spanish and English as an ebook in the EPUB format that you can download here. Take a look and consider sharing it with anyone who you know who uses (or should use) Signal...",
+    "title": "Free Signal Guide",
+    "url": "https://www.eff.org/deeplinks/2026/05/free-sginal-guide"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "845e09fc8cd969fb",
+    "ingestedAt": "2026-05-08T18:11:10.496Z",
+    "publishedAt": "2026-05-06T22:44:48.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Last week, we released apkeep version 1.0.0 , the latest edition of our command-line Android package downloading software. Rather than indicating major changes for the project, this milestone instead signifies arriving at a relatively stable and mature place after gradual iteration on the project over the course of over four years. What’s New in 1.0.0 We...",
+    "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
+    "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "a19795465bc12eee",
+    "ingestedAt": "2026-05-08T18:11:10.497Z",
+    "publishedAt": "2026-05-06T16:11:44.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "We&#039;d all like the internet to be a better place—for kids and adults alike. But in the name of online safety, governments around the world are racing to impose a dangerous new system of control. Are age gates the silver bullet to the internet&#039;s problems they&#039;re being promoted as? Or are we being sold a bill of goods? We&#039;re answering thi...",
+    "title": "👎 California&#039;s Terrible, No Good, Very Bad Social Media Ban | EFFector 38.9",
+    "url": "https://www.eff.org/deeplinks/2026/05/californias-terrible-no-good-very-bad-social-media-ban-effector-389"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "4b8364ee095c747f",
+    "ingestedAt": "2026-05-08T18:11:10.497Z",
+    "publishedAt": "2026-05-06T14:38:02.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "The federal SECURE Data Act is not a serious consumer privacy bill, and its provisions—if enacted—would be a retreat from already insufficient state protections. Republicans on the House Energy and Commerce Committee released a draft of the bill late last month without bipartisan support. The bill is weaker than congressional proposals in prior years, as...",
+    "title": "The SECURE Data Act is Not a Serious Piece of Privacy Legislation",
+    "url": "https://www.eff.org/deeplinks/2026/05/secure-data-act-not-serious-piece-privacy-legislation"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "81ae8f3395ba494d",
+    "ingestedAt": "2026-05-08T18:11:12.031Z",
+    "publishedAt": "2026-05-06T13:22:56.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "active",
+    "summary": "We are at a pivotal moment in the fight to shape the future of AI and its role in society. AI Now is scaling up our team to meet the moment, looking to make three hires to help us grow the organization as we enter our next phase: More information on each role can be [&#8230;] The post AI Now is Hiring! appeared first on AI Now Institute .",
+    "title": "AI Now is Hiring!",
+    "url": "https://ainowinstitute.org/general/ai-now-is-hiring"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "197d29e24da90481",
+    "ingestedAt": "2026-05-08T18:11:12.031Z",
+    "publishedAt": "2026-05-06T13:12:21.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "active",
+    "summary": "We are looking for a high-touch, digitally savvy communications professional to support the organization’s external presence across a range of channels. The Communications Associate will be a primary point of contact for engagement with the public and press, working in close partnership with our Senior Director and wider team to execute our comms strategy...",
+    "title": "AI Now Is Hiring a Comms Associate",
+    "url": "https://ainowinstitute.org/news/ai-now-is-hiring-a-comms-associate"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "a67b0def7ecea0ae",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-05-06T13:12:04.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "active",
+    "summary": "We’re looking for a senior leader to support the organization through this next phase of growth. Experienced and results-driven, this individual will have a finger to the pulse of the organization, working in close partnership with our Senior Director to build the systems and processes necessary for our team to thrive. This role requires a [&#8230;] The p...",
+    "title": "AI Now Is Hiring a Senior Operations Director",
+    "url": "https://ainowinstitute.org/news/ai-now-is-hiring-a-senior-operations-director"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "a7cbb81dc5ec6a26",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-05-06T13:11:49.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "active",
+    "summary": "We’re looking for a Program Associate to help execute our programs so they can be maximally impactful. With a bias to action and high degree of attention to detail, this individual will work at the frontline of executing AI Now’s flagship reports and events, providing support to the Senior Director across the range of projects [&#8230;] The post AI Now Is...",
+    "title": "AI Now Is Hiring a Program Associate",
+    "url": "https://ainowinstitute.org/news/ai-now-is-hiring-a-program-associate"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "6f041c90cbc517f1",
+    "ingestedAt": "2026-05-08T18:11:10.497Z",
+    "publishedAt": "2026-05-05T10:41:15.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "EFF joins 18 organizations in writing a letter to UK policymakers urging them to address the root causes of online harm—rather than undermining the open web through blunt restrictions. The coalition, which includes Mozilla, Tor Project, and Open Rights Group, warns that proposed measures following the passage of the Children’s Wellbeing and Schools Bill r...",
+    "title": "EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm",
+    "url": "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 75,
+        "name": "Data privacy",
+        "reason": "Matched: privacy, surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "ec1c1ac906955b50",
+    "ingestedAt": "2026-05-08T18:11:10.497Z",
+    "publishedAt": "2026-05-05T07:11:54.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "William Binney, the NSA surveillance architect-turned-whistleblower, called it the \" turnkey totalitarian state .\" Whoever sits in power gains access to a boundless surveillance empire that scorns privacy and crushes dissent. Politicians will come and go, but you can help us claw the tools of oppression out of government hands. JOIN EFF Become a Monthly S...",
+    "title": "Shut Down Turnkey Totalitarianism",
+    "url": "https://www.eff.org/deeplinks/2026/04/claw-back"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "5e76416f90f50085",
+    "ingestedAt": "2026-05-08T18:11:10.497Z",
+    "publishedAt": "2026-05-04T18:35:53.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Last September, the United Kingdom’s Prime Minister Keir Starmer announced plans to introduce a new digital ID scheme in the country. The scheme aims to make it easier for people to prove their identities by creating a virtual ID on personal devices with information like names, date of birth, nationality or residency status, and a photo to verify their ri...",
+    "title": "EFF Submission to UK Consultation on Digital ID",
+    "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Algorithmic bias",
+        "reason": "Matched: fairness",
+        "slug": "bias"
+      }
+    ],
+    "id": "895e4e2a16ebd4c7",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-05-04T15:33:51.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Digital Fairness in the EU The next few years will be decisive for EU digital policymaking. With major laws like the Digital Services Act, the Digital Markets Act, and the AI Act now in place, the EU is entering an enforcement era that will show whether these rules are rights-respecting or drift toward overreach and corporate control. With the proposed EU...",
+    "title": "Getting Digital Fairness Right: EFF&#039;s Recommendations for the EU&#039;s Digital Fairness Act",
+    "url": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "cebb59168c7efe1e",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-05-01T14:52:09.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "One of the central promises of open social media services is interoperability—the idea that wherever you personally decide to post doesn’t require others to be there just to follow what you have to say. Think of it like a radio broadcast: you want to reach people and don&#039;t care where they are or what device they&#039;re using. For example, in theory,...",
+    "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
+    "url": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "9d4483648d01e718",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-30T23:33:38.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "For the last couple of years, we’ve watched the same predictable cycle play out across the globe: a state (or country) passes a clunky age-verification mandate, and, without fail, Virtual Private Network (VPN) usage surges as residents scramble to maintain their privacy and anonymity. We&#039;ve seen this everywhere—from states like Florida , Missouri , T...",
+    "title": "Utah’s New Law Targeting VPNs Goes Into Effect May 6th",
+    "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "cc6650880989e308",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-30T16:54:10.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Reporters, community advocates, EFF, and others have used public records laws to reveal and counteract abuse, misuse, and fraudulent narratives around how law enforcement agencies across the country use and share data collected by automated license plate readers (ALPRs). EFF is alarmed by recent laws in several states that have blocked public access to da...",
+    "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
+    "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "ddb52c4c445d95ed",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-30T07:56:37.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "This is the fifth and final installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the rest of the series here . If the Arab Spring was defined by optimism about what the internet could do, the years since have been marked by a more sober understanding of what it takes to defend it. Back in 2011, the...",
+    "title": "Digital Hopes, Real Power: From Connection to Collective Action",
+    "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "bb69d87cc1dbfe96",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-29T21:22:55.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "The UN Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 recently announced a study addressing the killings and attacks against Palestinian journalists and media workers, the destruction of media infrastructure in Gaza, and the production and dissemination of narratives that may enable, justify, or inci...",
+    "title": "EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "0e494a6a6a292561",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-29T19:26:15.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "A U.S. citizen who teaches Persian poetry classes online is suddenly unable to receive payments or access funds when his account is flagged and frozen by Paypal and its subsidiary Venmo. A Muslim city councilwoman in New York City has a Venmo payment blocked because she uses the name of a Bangladeshi restaurant in the transaction. Online hubs for erotic s...",
+    "title": "Former EFF Activism Director&#039;s New Book, Transaction Denied, Explores What Happens When Financial Companies Act like Censors",
+    "url": "https://www.eff.org/deeplinks/2026/04/former-eff-activism-directors-new-book-transaction-denied-explores-what-happens"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "e46d9c08d1078405",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-28T20:59:06.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "If you want to overthrow Big Tech, you’ll need Section 230. The paradigm shift being built with the Open Social Web can put communities back in control of social media infrastructure, and finally end our dependency on enshitified corporate giants. But while these incumbents can overcome multimillion-dollar lawsuits , the small host revolution could be pic...",
+    "title": "The Open Social Web Needs Section 230 to Survive",
+    "url": "https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "2eabf4c9aa99972f",
+    "ingestedAt": "2026-05-08T18:11:10.498Z",
+    "publishedAt": "2026-04-27T23:22:57.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Lawmakers in Congress are moving quickly on the GUARD Act , an age-gating bill restricting minors’ access to a wide range of online tools, with a key vote expected this week. The proposal is framed as a response to alarming cases involving “AI companions” and vulnerable young users. But the text of the bill goes much further, and could require age gates e...",
+    "title": "The GUARD Act Isn’t Targeting Dangerous AI—It’s Blocking Everyday Internet Use",
+    "url": "https://www.eff.org/deeplinks/2026/04/guard-act-isnt-targeting-dangerous-ai-its-blocking-everyday-internet-use"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "d7d1babfc87aeac0",
+    "ingestedAt": "2026-05-08T18:11:10.499Z",
+    "publishedAt": "2026-04-27T21:55:28.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Speaker Johnson has introduced a new fig leaf over the American surveillance state, the Foreign Intelligence Accountability Act . Introduced with only days to go before Section 702 of the Foreign Intelligence Surveillance Act (FISA) expires and the U.S. government loses one of its most invasive surveillance programs, the bill does nothing to make any of t...",
+    "title": "Congress Must Reject New Insufficient 702 Reauthorization Bill",
+    "url": "https://www.eff.org/deeplinks/2026/04/congress-must-reject-new-insufficient-702-reauthorization-bill"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "d36b2807f981379d",
+    "ingestedAt": "2026-05-08T18:11:10.499Z",
+    "publishedAt": "2026-04-27T17:44:01.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "SmugMug is a family-owned photo hosting and e-commerce platform that helps professional photographers run their businesses online. Founded in 2002, the company provides tools for photographers to show their work, deliver client galleries, sell prints, and manage payments. In 2018, SmugMug purchased Flickr, the long-running photo-sharing community, which a...",
+    "title": "The Internet Still Works: SmugMug Powers Online Photography",
+    "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 75,
+        "name": "Data privacy",
+        "reason": "Matched: privacy, tracking",
+        "slug": "privacy"
+      }
+    ],
+    "id": "adfb2f6be339c7fa",
+    "ingestedAt": "2026-05-08T18:11:10.499Z",
+    "publishedAt": "2026-04-24T23:11:32.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "California lawmakers are fast-tracking A.B. 1709—a sweeping bill that would ban anyone under 16 from using social media and force every user, regardless of age, to submit sensitive personal information before accessing social platforms. That means that under A.B. 1709, social media companies will have to enact age gates to prohibit minors from accessing t...",
+    "title": "Act Now to Stop California’s Paternalistic and Privacy-Destroying Social Media Ban",
+    "url": "https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "183e74f6bac1837b",
+    "ingestedAt": "2026-05-08T18:11:10.499Z",
+    "publishedAt": "2026-04-24T22:57:05.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Clinic students Emily Ko and Zoe Lee at the Technology Law and Policy Clinic at the NYU School of Law were the principal authors of this post. Courts are not private forums for business disputes. They are public institutions, and their records belong to the public. But too often, courts forget that and allow for massive over-sealing, especially in patent...",
+    "title": "EFF Challenges Secrecy In Eastern District of Texas Patent Case",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "0691b6fc56a28b72",
+    "ingestedAt": "2026-05-08T18:11:10.499Z",
+    "publishedAt": "2026-04-24T20:04:30.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Customs and Border Protection (CBP) is seeking permission from the California city of San Clemente to install an Anduril Industries surveillance tower on a cliff that would allow for constant monitoring of entire coastal neighborhoods. The proposed tower is Anduril&#039;s Sentry, part of the Autonomous Surveillance Tower (AST) program. While CBP says it w...",
+    "title": "California Coastal Community Must Reject CBP&#039;s AI-Powered Surveillance Tower",
+    "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "fbeb95b6b6263b1b",
+    "ingestedAt": "2026-05-08T18:11:10.500Z",
+    "publishedAt": "2026-04-23T22:05:24.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "EFF filed an amicus brief for the second time in the U.S. Court of Appeals for the Ninth Circuit, arguing that allowing cases against the Apple, Google, and Facebook app stores to proceed could lead to greater censorship of users’ online speech. Our brief argues that the app stores should not lose Section 230 immunity for hosting “social casino” apps just...",
+    "title": "EFF to 9th Circuit (Again): App Stores Shouldn’t Be Liable for Processing Payments for User Content",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-9th-circuit-again-app-stores-shouldnt-be-liable-processing-payments-user"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Algorithmic bias",
+        "reason": "Matched: fairness",
+        "slug": "bias"
+      }
+    ],
+    "id": "316732e487c5995e",
+    "ingestedAt": "2026-05-08T18:11:10.500Z",
+    "publishedAt": "2026-04-23T19:56:20.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "active",
+    "summary": "Lizzie O’Shea is an Australian lawyer, author, and the founder and chair of Digital Rights Watch , which advocates for freedom, fairness, and fundamental rights in the digital age. She sits on the board of Blueprint for Free Speech , and in 2019 was named a Human Rights Hero by Access Now. Interviewer : Jillian York Jillian York: Hi, good morning, or rath...",
+    "title": "Speaking Freely: Lizzie O&#039;Shea",
+    "url": "https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "36981756dbc8deca",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-04-23T14:09:30.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "archived",
+    "summary": "A new AI Now Institute report published April 21, 2026, warns that gig-work platforms marketed as \"Uber for nursing\" are aggressively lobbying states to rewrite healthcare staffing rules, a push that could leave nurses with less pay, fewer protections, and less control over their shifts, according to The Guardian. The post Nurses Sound Alarm as &#8216;Ube...",
+    "title": "Nurses Sound Alarm as &#8216;Uber for Nursing&#8217; Apps Push to Deregulate Healthcare",
+    "url": "https://ainowinstitute.org/news/press/nurses-sound-alarm-as-uber-for-nursing-apps-push-to-deregulate-healthcare",
+    "archivedAt": "2026-05-08T18:12:10.766Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "8ee3ae4e7f933d27",
+    "ingestedAt": "2026-05-08T18:11:10.501Z",
+    "publishedAt": "2026-04-22T18:25:51.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "When we use the internet, we&#039;re entrusting tech companies with some of our most private information. These companies have promised they&#039;ll keep our data safe. But what happens when the government comes knocking at their doors? In our latest EFFector newsletter , we hear from an EFF client whose data was given to ICE after Google broke its promis...",
+    "title": "📁 How ICE Got My Data | EFFector 38.8",
+    "url": "https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "1e1e77980a19be5d",
+    "ingestedAt": "2026-05-08T18:11:10.501Z",
+    "publishedAt": "2026-04-22T15:51:35.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Agencies Ignored EFF’s Public-Records Requests Regarding Unlawful Efforts to Locate People Who Criticized the Government or Attended Protests. SAN FRANCISCO – The Electronic Frontier Foundation (EFF) sued the Department of Homeland Security (DHS) and Immigration and Customs Enforcement (ICE) today demanding public records about their use of administrative...",
+    "title": "EFF Sues DHS and ICE For Records on Subpoenas Seeking to Unmask Online Critics",
+    "url": "https://www.eff.org/press/releases/eff-sues-dhs-and-ice-records-subpoenas-seeking-unmask-online-critics-0",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "9efec5ac40f70d80",
+    "ingestedAt": "2026-05-08T18:11:10.501Z",
+    "publishedAt": "2026-04-21T18:28:17.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "People building the future of the social web — interoperable and decentralized — need to protect themselves against copyright liability. Like anyone who creates and operates platforms for user-uploaded content, the hosts of the decentralized social web can take preventive measures to reduce their legal exposure when a user posts material that violates som...",
+    "title": "Copyright and DMCA Best Practices for Fediverse Operators",
+    "url": "https://www.eff.org/deeplinks/2026/04/copyright-and-dmca-best-practices-fediverse-operators",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "86ffaa1af46ff4e9",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-04-21T14:09:55.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "archived",
+    "summary": "Billion-dollar tech platforms are aggressively pushing for deregulation of the “Uber for nursing” industry in an effort to expand gig work in the healthcare sector, according to a report published on Tuesday. The post ‘Uber for nurses’: gig-work apps lobby to deregulate healthcare, report finds appeared first on AI Now Institute .",
+    "title": "‘Uber for nurses’: gig-work apps lobby to deregulate healthcare, report finds",
+    "url": "https://ainowinstitute.org/news/press/uber-for-nurses-gig-work-apps-lobby-to-deregulate-healthcare-report-finds",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "6de5ee195c719561",
+    "ingestedAt": "2026-05-08T18:11:11.139Z",
+    "publishedAt": "2026-04-21T12:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Tech companies like Google, Facebook and Microsoft are ignoring data controls mandated under California law, researchers say.",
+    "title": "Websites break California privacy law at ‘industrial scale,’ survey finds",
+    "url": "https://themarkup.org/privacy/2026/04/21/websites-break-california-privacy-law-at-industrial-scale-survey-finds",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "2b8b1686faac096f",
+    "ingestedAt": "2026-05-08T18:11:10.501Z",
+    "publishedAt": "2026-04-21T00:06:29.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "For years, EFF has pushed technology companies to make real human rights commitments—and to live up to them. In response to growing evidence that Palantir’s tools help power abusive immigration enforcement by ICE, we sent the company a detailed letter asking how the promises in its own human rights framework extends to that work. This post explains what w...",
+    "title": "Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story",
+    "url": "https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "dc4316fd63673ff1",
+    "ingestedAt": "2026-05-08T18:11:10.501Z",
+    "publishedAt": "2026-04-20T21:35:21.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, a...",
+    "title": "The Internet Still Works: Reddit Empowers Community Moderation",
+    "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "df9e53d9503d183e",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-04-20T18:18:11.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "archived",
+    "summary": "A seismic shift is rocking the healthcare industry. Uber’s business model—the “gigification” of labor—and lobbying practices have made their way to healthcare staffing. The post Uber For Nursing Part II appeared first on AI Now Institute .",
+    "title": "Uber For Nursing Part II",
+    "url": "https://ainowinstitute.org/publications/uber-for-nursing",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "d258cf2c11d938e0",
+    "ingestedAt": "2026-05-08T18:11:10.502Z",
+    "publishedAt": "2026-04-17T19:26:27.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "In a dramatic middle-of-the-night stand off, a bipartisan set of lawmakers pushing for true reform and privacy protections for Americans bought us some more time to fight! They are holding out for, at a minimum, the requirement of an actual probable cause warrant for FBI access to information collected under the mass spying program known as 702. A reautho...",
+    "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+    "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "5cbf686ce0606573",
+    "ingestedAt": "2026-05-08T18:11:11.139Z",
+    "publishedAt": "2026-04-17T18:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Bill addresses an issue investigated by The Markup last year.",
+    "title": "Background checks to curb dating app violence advance in California legislature",
+    "url": "https://themarkup.org/news/2026/04/17/dating-apps-would-bestow-scarlet-letter-under-safety-bill-advancing-in-the-california-legislature",
+    "archivedAt": "2026-05-08T18:12:10.776Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "9fabc2dbd0afd17e",
+    "ingestedAt": "2026-05-08T18:11:10.502Z",
+    "publishedAt": "2026-04-16T20:31:22.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "New York&#039;s proposed 2026-2027 budget currently includes provisions that will require all 3D printers sold in the state to run print-blocking censorware —software that surveils every print for forbidden designs. This policy would also create felony charges for possessing or sharing certain design files. The vote on the state budget could happen as ear...",
+    "title": "Stop New York&#039;s Attack on 3D Printing",
+    "url": "https://www.eff.org/deeplinks/2026/04/stop-new-yorks-attack-3d-printing",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "8c6eec20161dbd5a",
+    "ingestedAt": "2026-05-08T18:11:10.502Z",
+    "publishedAt": "2026-04-16T16:41:57.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Update April 22, 2026. Apple has reportedly addressed part of the issue with the notification database in iOS 26.4.2 and 18.7.8 , released today. With this update, notifications marked for deletion should no longer be stored in the notification database. A phone’s push notifications can contain a significant amount of information about you, your communica...",
+    "title": "How Push Notifications Can Betray Your Privacy (and What to Do About It)",
+    "url": "https://www.eff.org/deeplinks/2026/04/how-push-notifications-can-betray-your-privacy-and-what-do-about-it",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "81a085af037fde49",
+    "ingestedAt": "2026-05-08T18:11:10.502Z",
+    "publishedAt": "2026-04-15T15:04:21.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "EFF calls on the Kuwaiti government to immediately release journalist Ahmed Shihab-Eldin. An award-winning journalist and television host who worked for Al Jazeera for many years, Shihab-Eldin—a dual American-Kuwaiti citizen—was arrested in Kuwait on March 3 while visiting family. The Committee to Protect Journalists (CPJ) reported yesterday that it is be...",
+    "title": "EFF Calls on Kuwait to Release Journalist Ahmed Shihab-Eldin",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-calls-kuwait-release-journalist-ahmed-shihab-eldin",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "6de4c16f6bf64ed0",
+    "ingestedAt": "2026-05-08T18:11:10.502Z",
+    "publishedAt": "2026-04-15T11:38:48.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "This is the fourth installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the rest of the series here . Iran’s internet has been intermittently disrupted for months. After years of bombardment, Gaza’s telecommunications infrastructure remains fragile . In India, recurring shutdowns and throttling have...",
+    "title": "Digital Hopes, Real Power: The Rise of Network Shutdowns",
+    "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "eba351918e7dca2a",
+    "ingestedAt": "2026-05-08T18:11:10.502Z",
+    "publishedAt": "2026-04-14T16:01:48.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "In September 2024, Amandla Thomas-Johnson was a Ph.D. candidate studying in the U.S. on a student visa when he briefly attended a pro-Palestinian protest. In April 2025, Immigration and Customs Enforcement (ICE) sent Google an administrative subpoena requesting his data. The next month, Google gave Thomas-Johnson&#039;s information to ICE without giving h...",
+    "title": "Google Broke Its Promise to Me. Now ICE Has My Data.",
+    "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "2a2883e92d63ebf6",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-14T16:00:26.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Google&#039;s Failure to Warn Users About Law Enforcement Demands for Data Is Deceptive SAN FRANCISCO – The Electronic Frontier Foundation sent complaints today to the attorneys general of California and New York urging them to investigate Google for deceptive trade practices, related to the company&#039;s broken promise to give users prior notice before...",
+    "title": "EFF to State AGs: Investigate Google&#039;s Broken Promise to Users Targeted by the Government",
+    "url": "https://www.eff.org/press/releases/eff-state-ags-investigate-googles-broken-promise-users-targeted-government",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "b1fa26905c360cb9",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-13T22:07:09.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "California’s bill, A.B. 2047 , will not only mandate censorware — software which exists to bluntly block your speech as a user — on all 3D printers; it will also criminalize the use of open-source alternatives. Repeating the mistakes of Digital Rights Management (DRM) technologies won’t make anyone safer. What it will do is hurt innovation in the state an...",
+    "title": "The Dangers of California’s Legislation to Censor 3D Printing",
+    "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "309cac8c8837506f",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-13T19:21:15.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Protecting privacy and free speech online takes more than policy work—it takes community. Conferences like HOPE are where that community comes together to learn, connect, and push these ideals forward. That&#039;s why EFF is proud to be at HOPE 26 . Join us at this year&#039;s Hackers On Planet Earth, August 14-16 at the New Yorker Hotel in Manhattan! Get...",
+    "title": "EFF 🤝 HOPE: Join Us This August!",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "49cc3784da736f91",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-13T17:35:21.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "When people see Customs & Border Protection&#039;s giant, tethered surveillance blimp flying 20 miles outside of Marfa, Texas, lots of them confuse it with an art installation. Elsewhere along the U.S.-Mexico border, surveillance towers get mistaken for cell-phone towers. And that traffic barrel? It&#039;s actually a camera. That piece of rusted litter? T...",
+    "title": "Hot Off the Press: EFF&#039;s Updated Guide to Tech at the US-Mexico Border",
+    "url": "https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "7eaab8005151e10b",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-13T16:38:09.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Dr. Jean Linis-Dinco is an activist-researcher working at the intersection of human rights and technology. Born in the Philippines and shaped by firsthand experience with inequality and state violence, Jean has spent her life pushing back against systems that profit from oppression. She refuses to accept a world where tech is just another tool for corpora...",
+    "title": "Speaking Freely: Dr. Jean Linis-Dinco",
+    "url": "https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Disinformation",
+        "reason": "Matched: misinformation",
+        "slug": "disinformation"
+      }
+    ],
+    "id": "c546d0abc0e4a530",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-13T15:29:39.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "War does not only reshape borders. It also reshapes what can be seen, said, and remembered. When governments invoke “misinformation” during wartime, they often mean something simpler: speech they do not control. Since the escalation of conflict between the United States, Israel, Iran, and related spillover attacks in the Gulf, several governments have int...",
+    "title": "War as a Pretext: Gulf States Are Tightening the Screws on Speech—Again",
+    "url": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "7444a969409a123d",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-04-12T20:09:53.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "archived",
+    "summary": "But Dr Heidy Khlaaf, chief AI scientist at the AI Now Institute and a former OpenAI safety engineer, is sceptical. She notes Anthropic provides no comparison with existing automated security tools, nor any false-positive rates. “It also serves their ‘safety first’ image, as they’re able to justify the lack of public release, even a limited one for indepen...",
+    "title": "‘Safety first’ puts Anthropic ahead in game of AI spin",
+    "url": "https://ainowinstitute.org/news/press/safety-first-puts-anthropic-ahead-in-game-of-ai-spin",
+    "archivedAt": "2026-05-08T18:12:10.786Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "26ee92249b5ab9fc",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-04-10T20:34:52.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "archived",
+    "summary": "Tech leaders want you to believe that AI is the key to a new golden age. The reality looks more like a bold, government-backed heist. The post The Great AI Grift appeared first on AI Now Institute .",
+    "title": "The Great AI Grift",
+    "url": "https://ainowinstitute.org/news/press/the-great-ai-grift",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 75,
+        "name": "Data privacy",
+        "reason": "Matched: privacy, surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "c7cc21f40ab0dbac",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-10T13:50:32.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "We go through this every couple of years: Section 702 of the Foreign Intelligence Surveillance Act (FISA), which of Americans’ communications with foreign persons overseas is up for renewal. As always, Congress can reauthorize it with or without changes, or just let it expire. We know, we know, it’s a pain to have to do this every few years –but it gives...",
+    "title": "We Need You: Our Privacy Cannot Afford a Clean Extension of Section 702",
+    "url": "https://www.eff.org/deeplinks/2026/04/we-need-you-our-privacy-cannot-afford-clean-extension-section-702",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "01fbe6d3394e2492",
+    "ingestedAt": "2026-05-08T18:11:10.503Z",
+    "publishedAt": "2026-04-09T21:32:03.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Google moved up its estimated deadline for quantum preparedness in cryptography to 2029—only 33 months from now. That’s earlier than previous deadlines , and they proposed the new post-quantum migration deadline because of two new papers that comprise a big jump in the state of the technology. It’s ahead of schedule, but not altogether unexpected. Cryptog...",
+    "title": "Yikes, Encryption’s Y2K Moment is Coming Years Early",
+    "url": "https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "8c22cf991a0485f0",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-09T17:20:38.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "As long as people have had more than one purchasing option, they’ve been comparing those options and looking for bargains. Online shoppers are no exception; in fact, one of the potential benefits of the internet is that it expands our options for everything from car rentals to airline tickets to dish soap. New AI tools can make the process even easier. Th...",
+    "title": "Comparison Shopping Is Not a (Computer) Crime",
+    "url": "https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "d4792b9dd5fa54b7",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-09T16:25:05.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "After almost twenty years on the platform, EFF is logging off of X. This isn’t a decision we made lightly, but it might be overdue. The math hasn’t worked out for a while now. The Numbers Aren’t Working Out We posted to Twitter (now known as X) five to ten times a day in 2018. Those tweets garnered somewhere between 50 and 100 million impressions per mont...",
+    "title": "EFF is Leaving X",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "db89acdcdf12c58a",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-08T19:24:39.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (and thus effectively a ban on sale of new devices), to include all new routers produced in foreign countries unless they are specifically given an exception by the Department of Defense (DoD) or DHS. The Commi...",
+    "title": "Banning New Foreign Routers Mistargets Products to Fix Real Problem",
+    "url": "https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "846d9f40ad1f0d9e",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-08T18:13:58.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Another court has ruled that copyright can’t be used to keep our laws behind a paywall. The U.S. Court of Appeals for the Third Circuit upheld a lower court’s ruling that it is fair use to copy and disseminate building codes that have been incorporated into federal and state law, even though those codes are developed by private parties who claim copyright...",
+    "title": "Another Court Rules Copyright Can’t Stop People From Reading and Speaking the Law",
+    "url": "https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 85,
+        "name": "Data privacy",
+        "reason": "Matched: privacy, surveillance, tracking",
+        "slug": "privacy"
+      }
+    ],
+    "id": "e3e92c09618c28f2",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-08T16:24:35.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "Time and time again, we&#039;ve seen police surveillance suffer from &#039;mission creep&#039;—technology sold as a way to prevent heinous crimes ends up enforcing traffic violations, tracking protestors, and more. In our latest EFFector newsletter , we&#039;re diving into this troubling pattern and sharing all the latest in the fight for privacy and free...",
+    "title": "👁 Selling Mass Surveillance | EFFector 38.7",
+    "url": "https://www.eff.org/deeplinks/2026/04/selling-mass-surveillance-effector-387",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "a8f49f3d47e5ac42",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-08T08:22:26.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "This is the third installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the first post here , and the second here . When people recall the 2011 uprisings across the Middle East and North Africa (MENA), they often picture crowded squares, raised phones, and the feeling that the internet had finally sh...",
+    "title": "Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",
+    "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-how-arab-spring-fueled-global-surveillance-boom",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "405124b5c7e4228a",
+    "ingestedAt": "2026-05-08T18:11:12.032Z",
+    "publishedAt": "2026-04-07T20:04:34.000Z",
+    "severity": 2,
+    "source": "AI Now Institute",
+    "status": "archived",
+    "summary": "But broad skepticism and fear about the impact of AI have made opposing all regulation untenable for tech company CEOs, said Kak, who is co-executive director of the AI Now Institute, which has advocated for AI regulation. If they can’t oppose every policy, “What’s the next best move?” she asked. “It’s to place yourself in the driver’s seat, and that is w...",
+    "title": "AI Giants Go on Charm Offensive to Avert Public Backlash",
+    "url": "https://ainowinstitute.org/news/press/ai-giants-go-on-charm-offensive-to-avert-public-backlash",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "1124819912dc21b6",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-07T19:24:13.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "The EU’s so-called Chat Control plan , which would mandate mass scanning and other encryption breaking measures, has had some good news lately . The most controversial idea, the forced requirement to scan encrypted messages, was given up by EU member states. And now, another win for privacy: the EU Parliament has dealt a real blow to voluntary mass-scanni...",
+    "title": "EU Parliament Blocks Mass-Scanning of Our Chats—What&#039;s Next?",
+    "url": "https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "55f1bdd1ba95da42",
+    "ingestedAt": "2026-05-08T18:11:10.504Z",
+    "publishedAt": "2026-04-03T23:15:14.000Z",
+    "severity": 2,
+    "source": "EFF Updates",
+    "status": "archived",
+    "summary": "You’re invited on a journey inside the privacy battles that shaped the internet. EFF’s Executive Director Cindy Cohn has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet. Join Cindy at three events in New York discussing her bestselling new book: Privacy&#039;s De...",
+    "title": "Triple Header for Privacy’s Defender in New York",
+    "url": "https://www.eff.org/deeplinks/2026/04/triple-header-privacys-defender-new-york",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "b4d89207483c481a",
+    "ingestedAt": "2026-05-08T18:11:11.139Z",
+    "publishedAt": "2026-03-30T12:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "The 18-month-long investigation about how Tinder, Hinge, and their corporate owner kept rape under wraps won in the technology reporting category.",
+    "title": "The Markup wins SABEW Award for Best in Business Journalism",
+    "url": "https://themarkup.org/inside-the-markup/2026/03/30/the-markup-wins-sabew-award-for-best-in-business-journalism",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "701d7cb3f983cb27",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-03-09T12:30:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "The Lincoln Media Foundation has spent big to push ‘local’ conservative messaging",
+    "title": "It was John Wayne’s political club. Now it’s spending millions on online influence",
+    "url": "https://themarkup.org/election-2026/2026/03/09/it-was-john-waynes-political-club-now-its-spending-millions-on-online-influence",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "7d654a6a350dea17",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-03-07T13:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Community colleges are spending millions on AI-powered chatbots that students say often give inaccurate answers. Many might see upgrades this year.",
+    "title": "California colleges spend millions on faulty AI systems: 'The chatbot is outdated’",
+    "url": "https://themarkup.org/machine-learning/2026/03/07/california-colleges-spend-millions-on-faulty-ai-systems-the-chatbot-is-outdated",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: surveillance",
+        "slug": "privacy"
+      }
+    ],
+    "id": "57adbb215e171f87",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-03-06T13:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Southern California residents are noticing new license plate readers that appear to be operated by the Border Patrol. Some have had confusing encounters with agents.",
+    "title": "He saw an abandoned trailer. Then, he uncovered a surveillance network on California's border",
+    "url": "https://themarkup.org/privacy/2026/03/06/he-saw-an-abandoned-trailer-then-he-uncovered-a-surveillance-network-on-californias-border",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "510ff10d46107435",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-02-27T18:15:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "A congressional investigation estimates broker breaches have cost consumers $20 billion in identity theft. Major brokers now promise to make it easier to opt out of their databases.",
+    "title": "Following Markup investigation, Congress finds data brokers cost consumers tens of billions of dollars",
+    "url": "https://themarkup.org/privacy/2026/02/27/following-markup-investigation-congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "fe6ebc168b7f604c",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-02-21T13:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "A legislative battle is under way over gaps that allow companies to collect and sell students’ personal information.",
+    "title": "California tried to protect students’ data. Tech companies found loopholes",
+    "url": "https://themarkup.org/artificial-intelligence/2026/02/21/california-tried-to-protect-students-data-tech-companies-found-loopholes",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: privacy",
+        "slug": "privacy"
+      }
+    ],
+    "id": "aae1ce969f15299a",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-02-09T16:44:53.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "We’ve updated Blacklight, our popular privacy tool, to check for TikTok and X trackers.",
+    "title": "Blacklight, our privacy inspector tool, now tracks X and TikTok pixels",
+    "url": "https://themarkup.org/blacklight/2026/02/09/blacklight-update-tiktok-x-twitter",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "00a633f8dc1c717f",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-30T17:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "New York mayor says terminating the ‘unusable’ bot will help close a budget gap",
+    "title": "Mamdani to kill the NYC AI chatbot we caught telling businesses to break the law",
+    "url": "https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "f21d8f94e29fb152",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-30T13:30:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Lawsuits in California federal and state court are unearthing documents embarrassing to tech companies — and may be a tipping point into federal regulation.",
+    "title": "‘We’re basically pushers:’ How a battle over kids on social media is unfolding in two California courtrooms",
+    "url": "https://themarkup.org/privacy/2026/01/30/were-basically-pushers-how-a-battle-over-kids-on-social-media-is-unfolding-in-two-california-courtrooms",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "17c11ad9e8510251",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-24T13:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Red flags that both job seekers and employers should watch for, in an era of AI slop and application scams",
+    "title": "We posted a job. Then came the AI slop, impersonator and recruiter scam",
+    "url": "https://themarkup.org/hello-world/2026/01/24/we-posted-a-job-then-came-the-ai-slop-impersonator-and-recruiter-scam",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "0482c45879f45e66",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-21T13:30:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "None of the videos produced by the leading AI platforms showed the actual dances we requested.",
+    "title": "How we tested and evaluated AI-generated dance videos",
+    "url": "https://themarkup.org/show-your-work/2026/01/21/how-we-tested-ai-generated-dance-videos",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "25036ce3895275f7",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-21T13:30:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Dancers say their craft can’t be duplicated by AI. Our tests show they’re right — for now.",
+    "title": "Generative AI is eating culture. See how close it’s getting to disrupting dance",
+    "url": "https://themarkup.org/artificial-intelligence/2026/01/21/our-video-tests-prove-generative-ai-still-sucks-at-dancing-see-for-yourself",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "576fead6b2ba391d",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-14T21:15:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Attorney General Rob Bonta said his office is looking into whether a new AI image editing tool from Elon Musk's company violates California law.",
+    "title": "California investigates Elon Musk’s AI company after ‘avalanche’ of complaints about sexual content",
+    "url": "https://themarkup.org/artificial-intelligence/2026/01/14/california-investigates-elon-musks-ai-company-after-avalanche-of-complaints-about-sexual-content",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 65,
+        "name": "Data privacy",
+        "reason": "Matched: personal data",
+        "slug": "privacy"
+      }
+    ],
+    "id": "befdfc26a919cfde",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-08T13:30:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "A tool called DROP lets California residents fill out a few forms to keep their personal data from being tracked or sold by data brokers.",
+    "title": "How Californians can use a new state website to block hundreds of data brokers",
+    "url": "https://themarkup.org/privacy/2026/01/08/how-californians-can-use-a-new-state-website-to-block-hundreds-of-data-brokers",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "9414390f6d1c8ff5",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2026-01-05T13:30:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "The California Courier uses the name of an established paper and doesn’t disclose apparent Republican ties. Critics call it “pink slime”",
+    "title": "Could this mysterious California news site influence the 2026 election?",
+    "url": "https://themarkup.org/news/2026/01/05/could-this-mysterious-california-news-site-influence-the-2026-election",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "7b228a9fe0c232fb",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2025-12-16T17:22:08.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "The civil lawsuit filed Tuesday, citing the Dating App Reporting Project, argues that dating apps could kick off serial rapists, but don’t.",
+    "title": "Dating App Rape Survivors File Lawsuit Accusing Hinge, Tinder of “Accommodating Rapists”",
+    "url": "https://themarkup.org/impact/2025/12/16/dating-app-rape-survivors-file-lawsuit-accusing-hinge-tinder-of-accommodating-rapists",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "ab91a07e78a00866",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2025-12-12T01:45:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "Since 2016, California enacted more AI regulations than any other state. The president's new order against such laws worries state officials.",
+    "title": "Trump orders crackdown on state AI regulation. Here's why California is hardest hit",
+    "url": "https://themarkup.org/artificial-intelligence/2025/12/11/trump-orders-crackdown-on-state-ai-regulation-heres-why-california-is-hardest-hit",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  },
+  {
+    "categories": [
+      {
+        "confidence": 35,
+        "name": "Needs review",
+        "reason": "No taxonomy keyword matched; retained for analyst review.",
+        "slug": "privacy"
+      }
+    ],
+    "id": "7fd0fc712c485b71",
+    "ingestedAt": "2026-05-08T18:11:11.140Z",
+    "publishedAt": "2025-11-22T13:00:00.000Z",
+    "severity": 2,
+    "source": "The Markup",
+    "status": "archived",
+    "summary": "A consortium of journalists is revealing how the industry influences governments in Latin America and globally.",
+    "title": "How American Big Tech guards the profits it extracts around the world",
+    "url": "https://themarkup.org/hello-world/2025/11/22/how-american-big-tech-guards-the-profits-it-extracts-around-the-world",
+    "archivedAt": "2026-05-08T18:12:10.787Z"
+  }
+]

@@ -1,7 +1,9 @@
-import { getArticles } from "@/lib/sample-data";
+import { getArticles } from "@/lib/articles";
+
+export const dynamic = "force-dynamic";
 
 export default function ArchivePage() {
-  const articles = getArticles("archived");
+  const articles = getArticles("archive");
 
   return (
     <main className="shell">

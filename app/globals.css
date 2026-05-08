@@ -36,7 +36,6 @@ a {
   color: inherit;
 }
 
-button,
 input,
 select {
   font: inherit;
@@ -132,17 +131,20 @@ select {
   padding: 4px;
 }
 
-.segmented button {
+.segmented a {
+  align-items: center;
   background: transparent;
   border: 0;
   border-radius: 6px;
   color: var(--muted);
   cursor: pointer;
+  display: inline-flex;
   min-height: 34px;
   padding: 6px 12px;
+  text-decoration: none;
 }
 
-.segmented button.active {
+.segmented a.active {
   background: var(--foreground);
   color: #ffffff;
 }

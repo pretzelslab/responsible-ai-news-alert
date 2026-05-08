@@ -1,7 +1,9 @@
-import { getArticles, getCategoryCounts } from "@/lib/sample-data";
+import { getArticles, getCategoryCounts } from "@/lib/articles";
+
+export const dynamic = "force-dynamic";
 
 export default function TrendsPage() {
-  const categoryCounts = getCategoryCounts(getArticles("active"));
+  const categoryCounts = getCategoryCounts(getArticles("14"));
 
   return (
     <main className="shell">
