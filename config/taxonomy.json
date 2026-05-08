@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "name": "Data privacy",
+      "slug": "privacy",
+      "keywords": [
+        "privacy",
+        "data breach",
+        "data leak",
+        "consent",
+        "surveillance",
+        "biometric",
+        "gdpr",
+        "ccpa",
+        "tracking",
+        "personal data"
+      ],
+      "severitySignals": ["breach", "children", "biometric", "sensitive data", "regulator"]
+    },
+    {
+      "name": "Disinformation",
+      "slug": "disinformation",
+      "keywords": [
+        "misinformation",
+        "disinformation",
+        "influence operation",
+        "bot network",
+        "deepfake",
+        "manipulated media",
+        "election interference",
+        "coordinated inauthentic"
+      ],
+      "severitySignals": ["election", "public health", "violence", "state-backed", "deepfake"]
+    },
+    {
+      "name": "Algorithmic bias",
+      "slug": "bias",
+      "keywords": [
+        "algorithmic bias",
+        "model bias",
+        "fairness",
+        "discrimination",
+        "disparate impact",
+        "facial recognition",
+        "automated decision",
+        "screening"
+      ],
+      "severitySignals": ["employment", "housing", "credit", "criminal justice", "healthcare"]
+    }
+  ]
+}

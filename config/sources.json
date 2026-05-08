@@ -1,0 +1,35 @@
+{
+  "source_stance": "Prefer durable primary sources, reputable civil society, specialist accountability journalism, and research/policy analysis. Avoid noisy social feeds and aggregator sites in the MVP.",
+  "sources": [
+    {
+      "name": "FTC Press Releases",
+      "type": "rss",
+      "url": "https://www.ftc.gov/feeds/press-release-consumer-protection.xml",
+      "why_it_matters": "Primary signal for US privacy, consumer protection, surveillance, and deceptive technology enforcement."
+    },
+    {
+      "name": "EFF Updates",
+      "type": "rss",
+      "url": "https://www.eff.org/rss/updates.xml",
+      "why_it_matters": "Strong civil society coverage of privacy, surveillance, platform power, and civil liberties."
+    },
+    {
+      "name": "The Markup",
+      "type": "rss",
+      "url": "https://themarkup.org/feeds/rss.xml",
+      "why_it_matters": "Specialist investigative journalism on data practices, platforms, algorithms, and accountability."
+    },
+    {
+      "name": "Tech Policy Press",
+      "type": "rss",
+      "url": "https://techpolicy.press/feed/",
+      "why_it_matters": "Focused policy analysis on platform governance, disinformation, AI policy, and digital rights."
+    },
+    {
+      "name": "AI Now Institute",
+      "type": "rss",
+      "url": "https://ainowinstitute.org/feed/",
+      "why_it_matters": "Research and policy analysis on AI accountability, power concentration, labor, and public interest harms."
+    }
+  ]
+}
